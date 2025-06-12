@@ -1,0 +1,72 @@
+# version: '3.1'
+
+# services:
+#   db:
+#     image: mysql:latest
+#     container_name: mysql-compose-container
+#     environment:
+#       MYSQL_ROOT_PASSWORD: rootpassword
+#       MYSQL_DATABASE: mydatabase
+#       MYSQL_USER: myuser
+#       MYSQL_PASSWORD: mypassword
+#     ports:
+#       - "3306:3306"
+#     volumes:
+#       - db_data:/var/lib/mysql
+
+#   phpmyadmin:
+#     image: phpmyadmin/phpmyadmin
+#     container_name: phpmyadmin-container
+#     depends_on:
+#       - db
+#     environment:
+#       PMA_HOST: db
+#       MYSQL_ROOT_PASSWORD: rootpassword
+#     ports:
+#       - "8080:80"
+
+# volumes:
+#   db_data:
+
+
+
+version: '3.8'
+
+services:
+  db:
+    image: mysql:latest
+    container_name: mysql-compose-container
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: mydatabase
+      MYSQL_USER: myuser
+      MYSQL_PASSWORD: mypassword
+    ports:
+      - "3306:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin-container
+    environment:
+      PMA_HOST: db
+      MYSQL_ROOT_PASSWORD: rootpassword
+    expose:
+      - 80
+    depends_on:
+      - db
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx-container
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - phpmyadmin
+
+volumes:
+  db_data:
+
