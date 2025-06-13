@@ -45,6 +45,12 @@ services:
       - "3306:3306"
     volumes:
       - db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
@@ -64,6 +70,9 @@ services:
     ports:
       - "9000:9000"
     restart: always
+    depends_on:
+      db:
+        condition: service_healthy
     
 
   nginx:
