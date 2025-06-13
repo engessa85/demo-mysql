@@ -1,0 +1,2477 @@
+2025-05-19 16:32:07,803 - INFO - my_app - Tool_call: execute_query, Response: (('Greatest Hits', 57), ('Minha Historia', 34), ('Unplugged', 30), ('Lost, Season 3', 26), ('Lost, S
+2025-05-19 16:32:12,788 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:32:12,788 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:32:12,789 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 16:36:26,407 - INFO - my_app - Tool_call: execute_query, Response: ((141, 'Greatest Hits', 57), (23, 'Minha Historia', 34), (73, 'Unplugged', 30), (229, 'Lost, Season 
+2025-05-19 16:36:29,563 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:36:29,564 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:36:29,564 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 16:39:37,578 - INFO - my_app - Tool_call: execute_query, Response: (('Greatest Hits', 57), ('Minha Historia', 34), ('Unplugged', 30), ('Lost, Season 3', 26), ('Lost, S
+2025-05-19 16:39:39,730 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:39:39,730 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:39:39,731 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 16:40:30,443 - INFO - my_app - Tool_call: execute_query, Response: ((141, 'Greatest Hits', 57), (23, 'Minha Historia', 34), (73, 'Unplugged', 30), (229, 'Lost, Season 
+2025-05-19 16:40:33,551 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:40:33,552 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:40:33,552 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 16:46:08,209 - INFO - my_app - Tool_call: execute_query, Response: ((141, 'Greatest Hits', 57), (23, 'Minha Historia', 34), (73, 'Unplugged', 30), (229, 'Lost, Season 
+2025-05-19 16:46:11,396 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:46:11,397 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:46:11,397 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 16:46:59,652 - INFO - my_app - Tool_call: execute_query, Response: (('Greatest Hits', 57), ('Minha Historia', 34), ('Unplugged', 30), ('Lost, Season 3', 26), ('Lost, S
+2025-05-19 16:47:02,081 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:47:02,082 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:47:02,082 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 16:55:25,016 - INFO - my_app - Tool_call: execute_query, Response: ((141, 'Greatest Hits', 57), (23, 'Minha Historia', 34), (73, 'Unplugged', 30), (229, 'Lost, Season 
+2025-05-19 16:56:58,409 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213), ('U2', 135), ('Led Zeppelin', 114), ('Metallica', 112), ('Deep Purple', 92), 
+2025-05-19 16:57:00,767 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 16:57:00,767 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-19 16:57:00,768 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-19 17:06:54,830 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 21),)
+2025-05-19 17:06:54,830 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:06:56,520 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:08:36,483 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 21),)
+2025-05-19 17:08:36,484 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:08:39,387 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [], 'notes': 'I have identified the artist with the highest number of records: Iron Maid
+2025-05-19 17:09:42,407 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:09:42,408 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:09:43,997 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:10:12,224 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 21),)
+2025-05-19 17:10:53,271 - INFO - my_app - Tool_call: execute_query, Response: None
+2025-05-19 17:10:54,195 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:11:24,244 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 213),)
+2025-05-19 17:11:44,341 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:11:45,934 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 17:12:15,825 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 213), (150, 'U2', 135), (22, 'Led Zeppelin', 114), (50, 'Metallica', 112), (58,
+2025-05-19 17:12:17,570 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 17:12:24,110 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'U2', 'Led Zeppelin', 'Metallica', '
+2025-05-19 17:14:32,833 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213), ('U2', 135), ('Led Zeppelin', 114), ('Metallica', 112), ('Lost', 92))
+2025-05-19 17:14:34,527 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 17:14:40,818 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'U2', 'Led Zeppelin', 'Metallica', '
+2025-05-19 17:17:47,985 - ERROR - my_app - Calling: get_database_schema_text Fail
+2025-05-19 17:19:32,360 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 213), (150, 'U2', 135), (22, 'Led Zeppelin', 114), (50, 'Metallica', 112), (58,
+2025-05-19 17:19:34,329 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-19 17:19:43,729 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'U2', 'Led Zeppelin', 'Metallica', '
+2025-05-19 17:20:06,280 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+📄 Table: album
+--------------------------------------------------------------------------------
+Fie
+2025-05-19 17:21:30,243 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+📄 Table: album
+--------------------------------------------------------------------------------
+Fie
+2025-05-19 17:21:34,352 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-19 17:21:36,146 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:21:37,336 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:21:38,829 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:22:46,738 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+📄 Table: album
+--------------------------------------------------------------------------------
+Fie
+2025-05-19 17:22:53,790 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-19 17:22:55,558 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:22:57,265 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:22:58,761 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:23:51,942 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+📄 Table: album
+--------------------------------------------------------------------------------
+Fie
+2025-05-19 17:23:55,615 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-19 17:23:57,099 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:23:58,525 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:24:00,068 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:42:01,055 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:42:08,209 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-19 17:42:10,123 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:42:12,761 - ERROR - my_app - Calling: execute_query Fail
+2025-05-19 17:42:14,273 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-19 17:43:22,724 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:43:27,013 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:43:33,151 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden'], 'datasets': [{'label': 'SongCount',
+2025-05-19 17:44:01,153 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:44:05,113 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 213),)
+2025-05-19 17:44:09,689 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden'], 'datasets': [{'label': 'SongCount',
+2025-05-19 17:46:00,171 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-19 17:46:00,952 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:46:05,956 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:46:10,675 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden'],\n    datasets: [
+2025-05-19 17:47:42,215 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-19 17:47:43,097 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:47:46,092 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:47:52,387 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:47:55,206 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:48:14,450 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-19 17:48:20,823 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:48:23,787 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:48:28,156 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden'],\n    datasets: [
+2025-05-19 17:48:36,839 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:48:39,886 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:48:44,008 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden'],\n    datasets: [
+2025-05-19 17:48:52,086 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:48:54,736 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:48:58,361 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': '{"type":"bar","data":{"labels":["Iron Maiden"],"datasets":[{"label":"Number
+2025-05-19 17:49:24,385 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-19 17:49:28,474 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-19 17:49:32,152 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden'],\n    datasets: [
+2025-05-20 01:01:54,236 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:01:57,155 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-20 01:02:56,020 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:03:13,112 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:03:15,999 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 01:03:20,229 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden'],\n    datasets: [
+2025-05-20 01:04:02,116 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:04:02,711 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:04:03,538 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:04:06,381 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:04:08,664 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': None, 'notes': 'Could not retrieve data results from the SQL query to genera
+2025-05-20 01:04:26,230 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:04:28,274 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': None, 'notes': 'Could not retrieve data results from the SQL query to genera
+2025-05-20 01:04:52,460 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:04:53,822 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 01:08:32,810 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:08:54,865 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:08:57,980 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213), ('U2', 135), ('Led Zeppelin', 114), ('Metallica', 112), ('Deep Purple', 92), 
+2025-05-20 01:08:59,444 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 01:09:05,475 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'U2', 'Led Zeppelin', 'Metallica', '
+2025-05-20 01:09:24,774 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:09:27,762 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:09:28,515 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:09:30,828 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:09:31,794 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:11:17,216 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:12:25,510 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:12:41,540 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('U2', 10), ('Metallica', 10))
+2025-05-20 01:12:44,190 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 01:12:50,012 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'Led Zeppelin', 'Deep Purple', 'U2',
+2025-05-20 01:13:13,926 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:13:29,183 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:13:31,205 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:13:33,791 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:13:36,695 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': None, 'notes': 'Could not retrieve data results from the SQL query to genera
+2025-05-20 01:13:48,602 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:14:11,002 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:15:12,199 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:15:14,458 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': None, 'notes': 'Could not retrieve data results from the SQL query to genera
+2025-05-20 01:15:40,580 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:15:44,157 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': '{"type":"bar","data":{"labels":[],"datasets":[{"label":"NumberOfAlbums","da
+2025-05-20 01:16:33,551 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:18:14,416 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:18:45,442 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:19:34,734 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:20:07,400 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:20:10,640 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 01:20:12,327 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 01:20:17,931 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'Led Zeppelin', 'Deep Purple', 'Meta
+2025-05-20 01:20:35,713 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:20:39,267 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:20:41,552 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': None, 'notes': 'Could not retrieve data from the provided SQL query result. 
+2025-05-20 01:22:47,353 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213), ('U2', 135), ('Led Zeppelin', 114), ('Metallica', 112))
+2025-05-20 01:22:52,222 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden', 'U2', 'Led Zeppel
+2025-05-20 01:23:35,192 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213), ('U2', 135), ('Led Zeppelin', 114), ('Metallica', 112))
+2025-05-20 01:24:19,882 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:24:21,339 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:24:25,399 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:24:27,347 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 01:26:40,527 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:26:47,696 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 01:26:47,696 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:28:10,103 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:28:24,938 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:28:29,357 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 01:28:30,905 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 01:28:37,187 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'Led Zeppelin', 'Deep Purple', 'Meta
+2025-05-20 01:30:06,572 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: album
+================================================================================
+Type:
+2025-05-20 01:30:11,182 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:30:20,112 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 01:30:26,179 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 01:30:52,650 - INFO - my_app - Tool_call: execute_query, Response: ((1, 1, 2, Decimal('0.99'), 1, 1), (2, 1, 4, Decimal('0.99'), 1, 1), (3, 2, 6, Decimal('0.99'), 1, 1
+2025-05-20 01:32:04,090 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 16:47:18,906 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: Album
+================================================================================
+Type:
+2025-05-20 16:47:22,324 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213), ('U2', 135), ('Led Zeppelin', 114), ('Metallica', 112), ('Deep Purple', 92))
+2025-05-20 16:47:27,675 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'schema': '{\n  "type": "bar",\n  "data": {\n    "labels": ["Iron Maide
+2025-05-20 16:48:45,694 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 16:52:51,389 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: Album
+================================================================================
+Type:
+2025-05-20 16:52:54,712 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 16:53:01,807 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Iron Maiden', 'Led Zeppelin', '
+2025-05-20 16:53:29,780 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'schema': "{\n  type: 'bar',\n  data: {\n    labels: ['Artist 1', 'Artist 2', 'Artist 
+2025-05-20 16:54:13,401 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: Album
+================================================================================
+Type:
+2025-05-20 16:54:18,197 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 16:54:18,716 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 16:54:48,264 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: Album
+================================================================================
+Type:
+2025-05-20 16:57:40,683 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 16:59:51,912 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: Album
+================================================================================
+Type:
+2025-05-20 17:00:43,748 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:02:05,931 - INFO - my_app - Tool_call: get_database_schema_text, Response: 
+TABLE: Album
+================================================================================
+Type:
+2025-05-20 17:09:27,756 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:09:36,297 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:11:08,981 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:11:23,841 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:11:29,407 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 17:11:51,138 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:13:07,536 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:13:32,573 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:13:35,098 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 17:14:43,633 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:15:31,509 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:15:34,347 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 17:16:43,057 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:17:26,836 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:17:29,623 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 17:18:28,179 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:18:41,955 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:18:44,805 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 17:19:07,856 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:19:34,119 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-20 17:19:47,332 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-20 17:19:48,823 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 17:20:39,413 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 213),)
+2025-05-20 17:20:40,911 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 17:21:34,751 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:21:38,129 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 17:22:08,124 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:22:41,466 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:22:44,282 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:24:45,318 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:25:42,441 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:25:45,362 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:28:17,837 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 17:28:41,538 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:28:44,391 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 17:31:10,779 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:31:12,323 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 17:31:50,196 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:33:27,468 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:34:09,097 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:34:11,091 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 17:34:36,411 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:34:39,840 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 17:34:41,494 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 17:34:58,650 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:35:01,302 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 17:35:02,725 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 17:35:25,846 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:35:29,654 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 17:35:31,198 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 17:36:12,231 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:37:29,896 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 17:37:31,742 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 17:38:09,596 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:38:12,600 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 17:38:18,054 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': []}
+2025-05-20 17:38:55,615 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 17:38:56,988 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 17:38:57,840 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 17:39:06,224 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 18:49:47,355 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 18:49:59,279 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 18:50:02,090 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 18:50:03,082 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 18:50:06,852 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 18:50:10,011 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 18:50:10,820 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 18:50:26,756 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 18:50:27,522 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 18:51:55,799 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 18:51:58,573 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 18:51:59,331 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 18:52:23,973 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 18:52:24,830 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 18:55:54,162 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 18:55:56,848 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21), ('Led Zeppelin', 14), ('Deep Purple', 11), ('Metallica', 10), ('U2', 10), ('Oz
+2025-05-20 18:55:59,144 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 18:56:11,692 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'Led Zeppelin', 'Deep Purple', 'Meta
+2025-05-20 18:56:26,155 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 18:56:27,354 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:01:51,316 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:01:56,485 - INFO - my_app - Tool_call: execute_query, Response: (('Album', 347),)
+2025-05-20 19:01:56,485 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:01:56,728 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:03:24,063 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:03:27,445 - INFO - my_app - Tool_call: execute_query, Response: (('Iron Maiden', 21),)
+2025-05-20 19:03:28,287 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:05:35,836 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:05:38,472 - INFO - my_app - Tool_call: execute_query, Response: ((90, 'Iron Maiden', 21),)
+2025-05-20 19:05:39,346 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:06:14,648 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:06:17,423 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:06:18,180 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:06:29,085 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:06:32,426 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:06:33,149 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:14:05,103 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:14:08,236 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 19:14:08,969 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:14:21,178 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:14:24,154 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:14:24,857 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:14:43,392 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:14:46,954 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:14:47,626 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:15:11,657 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:15:17,487 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistName': 'U2', 'TrackCount': 135}, {'Artist
+2025-05-20 19:15:26,292 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'schema': '{\n  "type": "bar",\n  "data": {\n    "labels": ["Iron Maide
+2025-05-20 19:15:42,632 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:15:45,811 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:15:46,564 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:17:37,280 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:17:39,730 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-20 19:17:41,337 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 19:17:48,543 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: {'schemas': [{'type': 'bar', 'data': {'labels': ['Iron Maiden', 'Led Zeppelin', 'Deep Purple', 'Meta
+2025-05-20 19:18:05,659 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:06,759 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:07,763 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:08,724 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:09,870 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:10,753 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:11,629 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:13,239 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:14,196 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:15,116 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:16,243 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:17,349 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:18,893 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:19,865 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:20,866 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:22,209 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:23,193 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:24,147 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:25,051 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:26,044 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:18:26,878 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:19:15,159 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:19:18,321 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-20 19:19:18,841 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:19:43,897 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:19:54,955 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:19:56,089 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:19:57,504 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:19:58,667 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:19:59,177 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:22:49,807 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:22:53,280 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-20 19:22:53,968 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:23:12,149 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:23:14,967 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:23:16,002 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:23:17,163 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:23:18,205 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:23:19,059 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:24:26,009 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:24:28,578 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 19:24:29,307 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:24:44,765 - INFO - my_app - Tool_call: get_database_schema_text, Response: Table: Album
+--------------------------------------------------------------------------------
+Field 
+2025-05-20 19:24:48,062 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:24:49,025 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:24:50,000 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:24:50,999 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:24:51,676 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:25:19,367 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 19:25:19,994 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:25:29,162 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:30,166 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:31,317 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:32,260 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:33,292 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:34,285 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:35,295 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:36,810 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:39,277 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:40,260 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:41,777 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:43,079 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:25:59,604 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'SongCount': 213}]
+2025-05-20 19:25:59,605 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:25:59,837 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:26:49,072 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:26:50,084 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:26:51,145 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:26:52,144 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:26:52,797 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: None
+2025-05-20 19:36:32,739 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistName': 'Led Zeppelin', 'AlbumCount': 14}, 
+2025-05-20 19:36:34,725 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 19:45:38,165 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: <generator object analysis_visualization_agent at 0x00000156C3D77AB0>
+2025-05-20 19:45:49,785 - INFO - my_app - Tool_call: analysis_visualization_agent, Response: <generator object analysis_visualization_agent at 0x00000156C3E4C150>
+2025-05-20 19:47:12,467 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 19:47:14,326 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:47:27,763 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:29,635 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:31,244 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:32,278 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:33,392 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:34,519 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:35,663 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:36,785 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:38,006 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:39,285 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:47:44,433 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:49:07,583 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-20 19:49:12,378 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:50:45,714 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-20 19:50:49,702 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:52:30,799 - INFO - my_app - Tool_call: execute_query, Response: [{'MediaTypeId': 1, 'Name': 'MPEG audio file'}, {'MediaTypeId': 2, 'Name': 'Protected AAC audio file
+2025-05-20 19:52:31,848 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:39,829 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:41,530 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:42,646 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:43,922 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:45,010 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:46,062 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:47,096 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:48,074 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:49,238 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:52:49,490 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 19:53:01,819 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:53:03,047 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:53:04,028 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:53:05,171 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:53:06,166 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:53:07,235 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 19:53:09,629 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:24:07,600 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-20 20:24:18,752 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:24:32,713 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:34,047 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:35,118 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:36,228 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:37,377 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:38,426 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:39,547 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:41,611 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:42,744 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:44,338 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:24:46,277 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:25:50,844 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistName': 'Led Zeppelin', 'AlbumCount': 14}, 
+2025-05-20 20:25:54,269 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:28:03,485 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'SongCount': 213}, {'Artist': 'U2', 'SongCount': 135}, {'Artist': 'Led Ze
+2025-05-20 20:28:09,502 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 20:28:17,021 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:29:34,350 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-20 20:31:58,734 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:32:22,412 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:32:23,330 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:32:24,989 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:32:25,898 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:00,364 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:01,283 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:02,374 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:03,467 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:04,310 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:05,343 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:06,416 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:07,365 - ERROR - my_app - Calling: execute_query Fail
+2025-05-20 20:33:08,426 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:38:01,045 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:38:07,156 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 20:41:03,717 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:41:19,436 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'SongCount': 213}]
+2025-05-20 20:41:44,735 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:41:47,500 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 20:41:54,106 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'SongCount': 213}]
+2025-05-20 20:41:55,521 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 20:43:09,562 - INFO - my_app - Tool_call: execute_query, Response: [{'AlbumId': 94, 'Title': 'A Matter of Life and Death', 'Name': 'Iron Maiden'}, {'AlbumId': 95, 'Tit
+2025-05-20 20:43:11,136 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackId': 1201, 'TrackName': 'Different World', 'AlbumId': 94, 'AlbumTitle': 'A Matter of Life an
+2025-05-20 20:46:35,849 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:47:32,500 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'SongCount': 213}]
+2025-05-20 20:47:54,575 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:47:54,973 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'SongCount': 213}]
+2025-05-20 20:47:57,163 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 20:47:57,164 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 20:49:55,227 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 20:50:42,720 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'NumberOfSongs': 213}, {'Artist': 'U2', 'NumberOfSongs': 135}, {'Artist':
+2025-05-20 20:50:47,653 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 20:51:34,948 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-20 20:51:36,558 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 21:00:40,101 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 21:00:45,782 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-20 21:05:29,147 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21, 'TrackCount': 213}, {'ArtistId': 150, 'Na
+2025-05-20 21:05:33,531 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 21:20:46,723 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-20 21:20:48,223 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 21:21:06,736 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'NumberOfTracks': 213}, {'Artist': 'U2', 'NumberOfTracks': 135}, {'Artist
+2025-05-20 21:21:08,223 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 21:21:41,437 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TrackCount': 213}, {'Artist': 'U2', 'TrackCount': 135}, {'Artist': 'Led 
+2025-05-20 21:21:45,510 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 21:39:41,483 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 21:55:10,623 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 21:55:20,293 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-20 22:01:36,448 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-20 22:01:38,755 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}, {'Name': 'Led Zeppelin', 'AlbumCount': 14}, {'Name': 'De
+2025-05-20 22:01:42,933 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-20 22:01:55,019 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-20 22:01:59,136 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-20 22:02:46,316 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TrackCount': 213}, {'Artist': 'U2', 'TrackCount': 135}, {'Artist': 'Led 
+2025-05-20 22:02:48,141 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-20 22:07:32,099 - INFO - my_app - Tool_call: execute_query, Response: [{'Period': '2021-01', 'TotalSales': Decimal('35.64'), 'NumInvoices': 6}, {'Period': '2021-02', 'Tot
+2025-05-20 22:07:32,498 - INFO - my_app - Tool_call: execute_query, Response: [{'BillingCountry': 'USA', 'TotalSales': Decimal('523.06'), 'NumInvoices': 91}, {'BillingCountry': '
+2025-05-20 22:07:32,913 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackName': 'How to Stop an Exploding Man', 'TotalSold': Decimal('2'), 'Revenue': Decimal('3.98')
+2025-05-20 22:07:33,324 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'FirstName': 'Helena', 'LastName': 'Holý', 'NumPurchases': 7, 'TotalSpent': Decim
+2025-05-20 22:07:33,742 - INFO - my_app - Tool_call: execute_query, Response: [{'AlbumTitle': 'Battlestar Galactica (Classic), Season 1', 'ArtistName': 'Battlestar Galactica (Cla
+2025-05-20 22:07:34,148 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TotalSold': Decimal('140'), 'Revenue': Decimal('138.
+2025-05-20 22:07:34,569 - INFO - my_app - Tool_call: execute_query, Response: [{'EmployeeId': 3, 'FirstName': 'Jane', 'LastName': 'Peacock', 'NumInvoices': 146, 'TotalSales': Dec
+2025-05-20 22:07:34,966 - INFO - my_app - Tool_call: execute_query, Response: [{'TotalInvoices': 412, 'TotalRevenue': Decimal('2328.60'), 'AvgInvoiceValue': Decimal('5.651942')}]
+2025-05-20 22:07:35,369 - INFO - my_app - Tool_call: execute_query, Response: [{'Genre': 'Rock', 'TotalSold': Decimal('835'), 'Revenue': Decimal('826.65')}, {'Genre': 'Latin', 'T
+2025-05-20 22:07:35,783 - INFO - my_app - Tool_call: execute_query, Response: [{'MediaType': 'MPEG audio file', 'TotalSold': Decimal('1976'), 'Revenue': Decimal('1956.24')}, {'Me
+2025-05-20 22:07:59,337 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-20 22:09:29,203 - INFO - my_app - Tool_call: execute_query, Response: [{'Month': '2021-01', 'MonthlySales': Decimal('35.64'), 'InvoiceCount': 6}, {'Month': '2021-02', 'Mo
+2025-05-20 22:09:37,623 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-20 22:10:06,006 - INFO - my_app - Tool_call: execute_query, Response: [{'Country': 'USA', 'TotalRevenue': Decimal('523.06'), 'InvoiceCount': 91}, {'Country': 'Canada', 'T
+2025-05-20 22:10:13,132 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:10:13,132 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:10:29,524 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackName': "Phyllis's Wedding", 'UnitsSold': Decimal('2'), 'Revenue': Decimal('3.98')}, {'TrackN
+2025-05-20 22:10:35,609 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:10:46,973 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 1, 'CustomerName': 'Luís Gonçalves', 'PurchaseFrequency': 7, 'TotalSpending': Decima
+2025-05-20 22:10:54,633 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-20 22:11:08,618 - INFO - my_app - Tool_call: execute_query, Response: [{'AlbumId': 23, 'Title': 'Minha Historia', 'ArtistName': 'Chico Buarque', 'UnitsSold': Decimal('27'
+2025-05-20 22:11:19,948 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:11:33,661 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'UnitsSold': Decimal('140'), 'Revenue': Decimal('138.60')}, {'Artist': 'U
+2025-05-20 22:11:43,605 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:11:57,279 - INFO - my_app - Tool_call: execute_query, Response: [{'EmployeeId': 3, 'EmployeeName': 'Jane Peacock', 'InvoiceCount': 146, 'TotalRevenue': Decimal('833
+2025-05-20 22:12:08,302 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:12:19,313 - INFO - my_app - Tool_call: execute_query, Response: [{'total_invoices': 412, 'total_revenue': Decimal('2328.60'), 'average_invoice_value': Decimal('5.65
+2025-05-20 22:12:30,614 - INFO - my_app - Tool_call: execute_query, Response: [{'Genre': 'Rock', 'Revenue': Decimal('826.65')}, {'Genre': 'Latin', 'Revenue': Decimal('382.14')}, 
+2025-05-20 22:12:31,020 - INFO - my_app - Tool_call: execute_query, Response: [{'Genre': 'Rock', 'UnitsSold': Decimal('835')}, {'Genre': 'Latin', 'UnitsSold': Decimal('386')}, {'
+2025-05-20 22:12:38,544 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:12:56,675 - INFO - my_app - Tool_call: execute_query, Response: [{'MediaType': 'MPEG audio file', 'UnitsSold': Decimal('1976')}, {'MediaType': 'Protected AAC audio 
+2025-05-20 22:12:57,081 - INFO - my_app - Tool_call: execute_query, Response: [{'MediaType': 'MPEG audio file', 'Revenue': Decimal('1956.24')}, {'MediaType': 'Protected MPEG-4 vi
+2025-05-20 22:13:05,192 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-20 22:13:05,958 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 22:13:32,103 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'AlbumCount': 21, 'TrackCount': 213}, {'ArtistId': 15
+2025-05-20 22:13:47,425 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:13:47,426 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-20 22:16:29,779 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-20 22:16:31,343 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:16:42,792 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TotalSales': Decimal('138.60')}, {'Artist': 'U2', 'TotalSales': Decimal(
+2025-05-20 22:16:44,092 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:16:53,118 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TrackCount': 213}, {'Artist': 'U2', 'TrackCount': 135}, {'Artist': 'Led 
+2025-05-20 22:16:54,466 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:17:50,665 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'ArtistName': 'Le
+2025-05-20 22:17:51,086 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TotalSales': Decimal('1233.54')}, {'ArtistId': 150, 
+2025-05-20 22:17:51,490 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistId': 150, 'ArtistName': '
+2025-05-20 22:17:59,798 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:20:00,964 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-20 22:21:06,158 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TotalSales': Decimal('138.60')}, {'Artist': 'U2', 'TotalSales': Decimal(
+2025-05-20 22:21:10,018 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:21:21,809 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-20 22:21:25,669 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 22:21:32,756 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistName': 'U2', 'TrackCount': 135}, {'Artist
+2025-05-20 22:21:41,357 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 23:05:22,903 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-20 23:05:27,181 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 23:07:06,907 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}, {'ArtistId': 150, 'Name': 'U2', 'TrackC
+2025-05-20 23:07:11,757 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-20 23:10:06,014 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'NumberOfTracks': 230, 'NumberOfAlbums': 21, 'TotalSa
+2025-05-20 23:10:17,938 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 01:48:05,104 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-21 01:49:47,574 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistName': 'U2', 'TrackCount': 135}, {'Artist
+2025-05-21 01:49:53,122 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 01:50:17,070 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 01:50:23,989 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 01:52:29,879 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TotalTracks': 213, 'TotalSales': Decimal('138.60')},
+2025-05-21 01:52:31,967 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 1, 'ArtistName': 'AC/DC', 'AlbumId': 1, 'AlbumTitle': 'For Those About To Rock We Salu
+2025-05-21 01:52:54,378 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 16:23:10,957 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-21 16:23:40,360 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistName': 'Led Zeppelin', 'AlbumCount': 14}, 
+2025-05-21 16:23:45,219 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 16:24:16,078 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-21 16:24:17,890 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 16:25:42,472 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-21 16:25:45,895 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 16:40:43,955 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-21 16:40:45,532 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 16:50:39,640 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-21 16:50:41,197 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:10:31,294 - INFO - my_app - Responding to: Hello, how are you?...
+2025-05-21 17:13:07,212 - INFO - my_app - Responding to: Hello, how are you?...
+2025-05-21 17:14:01,139 - INFO - my_app - Responding to: Hello, how are you?...
+2025-05-21 17:14:01,147 - ERROR - my_app - Stream error: 'dict' object has no attribute 'strip'
+2025-05-21 17:15:06,214 - INFO - my_app - Responding to: Hello, how are you?...
+2025-05-21 17:15:20,077 - INFO - my_app - Responding to: Hello, how are you?...
+2025-05-21 17:16:41,327 - INFO - my_app - Responding to: create a chart for top artists...
+2025-05-21 17:16:45,070 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-21 17:16:46,704 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TrackCount': 213}, {'Artist': 'U2', 'TrackCount': 135}, {'Artist': 'Led 
+2025-05-21 17:16:52,874 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:22:57,523 - INFO - my_app - Responding to: create a chart for top artists...
+2025-05-21 17:23:00,927 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-21 17:23:02,889 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:23:32,061 - INFO - my_app - Responding to: create a chart for top artists...
+2025-05-21 17:23:35,374 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-21 17:23:37,350 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:24:14,761 - INFO - my_app - Responding to: create a chart for top artists and analyze...
+2025-05-21 17:24:19,513 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'TotalSales': Decimal('138.60')}, {'Artist': 'U2', 'TotalSales': Decimal(
+2025-05-21 17:24:21,543 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:24:49,167 - INFO - my_app - Responding to:  analyze  and create a chart for top artists...
+2025-05-21 17:24:53,279 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 17:24:53,688 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}, {'ArtistId': 150, 'Name': 'U2', 'TrackC
+2025-05-21 17:25:14,060 - INFO - my_app - Responding to:  analyze  and create a chart for top artists...
+2025-05-21 17:25:15,900 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-21 17:25:20,205 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21, 'TrackCount': 213}, {'ArtistId': 150, 'Na
+2025-05-21 17:25:20,626 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 17:25:27,117 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:26:38,391 - INFO - my_app - Responding to:  analyze  and create a chart for top artists...
+2025-05-21 17:26:43,249 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 17:26:43,658 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}, {'ArtistId': 150, 'Name': 'U2', 'TrackC
+2025-05-21 17:27:05,067 - INFO - my_app - Responding to:  analyze  and create a chart for top artists...
+2025-05-21 17:27:06,914 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-21 17:27:09,337 - INFO - my_app - Tool_call: execute_query, Response: [{'Artist': 'Iron Maiden', 'AlbumCount': 21}, {'Artist': 'Led Zeppelin', 'AlbumCount': 14}, {'Artist
+2025-05-21 17:27:11,254 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:27:56,433 - INFO - my_app - Responding to:  analyze  and create a chart for top artists...
+2025-05-21 17:27:59,697 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 17:28:07,683 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:34:04,167 - INFO - my_app - Responding to: Hi...
+2025-05-21 17:34:18,806 - INFO - my_app - Responding to: What tools do you have ? ...
+2025-05-21 17:34:43,884 - INFO - my_app - Responding to: do you have the tool called visualization and analysis? ...
+2025-05-21 17:36:02,925 - INFO - my_app - Responding to: create a chart and analysis for highest albums number and  tracks number...
+2025-05-21 17:36:07,236 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-21 17:36:08,496 - INFO - my_app - Tool_call: execute_query, Response: [{'Title': 'A Matter of Life and Death'}, {'Title': 'A Real Dead One'}, {'Title': 'A Real Live One'}
+2025-05-21 17:36:18,643 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:36:32,604 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}]
+2025-05-21 17:36:34,159 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackName': 'Different World', 'AlbumTitle': 'A Matter of Life and Death'}, {'TrackName': "These 
+2025-05-21 17:37:15,937 - INFO - my_app - Responding to: Top artists with highest albums number and tracks number...
+2025-05-21 17:37:17,899 - ERROR - my_app - Calling: analysis_visualization_agent Fail
+2025-05-21 17:37:20,779 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 17:37:29,421 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:37:39,324 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'TrackCount': 213}, {'ArtistId': 150, 'Name': 'U2', 'TrackC
+2025-05-21 17:37:46,180 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:39:02,983 - INFO - my_app - Responding to: how are u...
+2025-05-21 17:39:17,706 - INFO - my_app - Responding to: missing you...
+2025-05-21 17:42:31,108 - INFO - my_app - Responding to: give anaylsis for highest, albums, tracks and sales with charts...
+2025-05-21 17:42:35,298 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistName': 'Led Zeppelin', 'AlbumCount': 14}, 
+2025-05-21 17:42:42,215 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:42:47,283 - INFO - my_app - Tool_call: execute_query, Response: [{'AlbumId': 141, 'Title': 'Greatest Hits', 'TrackCount': 57}, {'AlbumId': 23, 'Title': 'Minha Histo
+2025-05-21 17:42:55,403 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:43:00,457 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'CustomerName': 'Helena Holý', 'TotalSales': Decimal('49.62')}, {'CustomerId': 26
+2025-05-21 17:43:05,680 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:43:08,909 - INFO - my_app - Finished responding to : give anaylsis for highest, albums, tracks and sales with charts...
+2025-05-21 17:47:52,317 - INFO - my_app - Responding to: Hello ...
+2025-05-21 17:47:53,456 - INFO - my_app - Finished responding to : Hello ...
+2025-05-21 17:50:36,824 - INFO - my_app - Responding to: Hello...
+2025-05-21 17:50:38,124 - INFO - my_app - Finished responding to : Hello...
+2025-05-21 17:51:05,623 - INFO - my_app - Responding to: give me a chart and analysis for the highest number of tracks and albums...
+2025-05-21 17:51:13,001 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'AlbumCount': 21, 'TrackCount': 213}, {'ArtistId': 15
+2025-05-21 17:51:13,402 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'ArtistName': 'Le
+2025-05-21 17:51:13,814 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistId': 150, 'ArtistName': '
+2025-05-21 17:51:21,717 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:51:21,718 - INFO - my_app - Tool_call: get_line_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "line" as const,
+  data: {
+    labels: ["<Label1>", "<Label2>", "<
+2025-05-21 17:51:26,361 - INFO - my_app - Finished responding to : give me a chart and analysis for the highest number of tracks and albums...
+2025-05-21 17:51:57,730 - INFO - my_app - Responding to: what tools do you have ? ...
+2025-05-21 17:51:59,493 - INFO - my_app - Finished responding to : what tools do you have ? ...
+2025-05-21 17:52:20,467 - INFO - my_app - Responding to: do you have the analysis and visualization agent? ...
+2025-05-21 17:52:22,255 - INFO - my_app - Finished responding to : do you have the analysis and visualization agent? ...
+2025-05-21 17:53:08,440 - INFO - my_app - Responding to: hello...
+2025-05-21 17:53:09,645 - INFO - my_app - Finished responding to : hello...
+2025-05-21 17:54:23,357 - INFO - my_app - Responding to: create a chart for top 5 artisits with highest number of albums...
+2025-05-21 17:54:26,739 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 17:54:31,071 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 17:54:36,073 - INFO - my_app - Finished responding to : create a chart for top 5 artisits with highest number of albums...
+2025-05-21 21:21:43,277 - INFO - my_app - Responding to: Hello...
+2025-05-21 21:21:44,821 - INFO - my_app - Finished responding to : Hello...
+2025-05-21 21:23:12,116 - INFO - my_app - Responding to: build a chart for top 5 artisit with highest album number and tracks....
+2025-05-21 21:23:16,046 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistId': 22, 'Name': 'Led Zeppelin',
+2025-05-21 21:23:20,248 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:23:29,000 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistName': 'U2', 'TrackCount': 135}, {'Artist
+2025-05-21 21:23:33,354 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:23:38,460 - INFO - my_app - Finished responding to : build a chart for top 5 artisit with highest album number and tracks....
+2025-05-21 21:26:39,938 - INFO - my_app - Responding to: hello...
+2025-05-21 21:26:41,139 - INFO - my_app - Finished responding to : hello...
+2025-05-21 21:27:41,127 - INFO - my_app - Responding to: give analysis only for highest albums number...
+2025-05-21 21:27:44,279 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'Name': 'Iron Maiden', 'AlbumCount': 21}]
+2025-05-21 21:27:45,782 - INFO - my_app - Tool_call: execute_query, Response: [{'Name': 'Iron Maiden', 'AlbumCount': 21}, {'Name': 'Led Zeppelin', 'AlbumCount': 14}, {'Name': 'De
+2025-05-21 21:27:51,338 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:28:09,472 - INFO - my_app - Finished responding to : give analysis only for highest albums number...
+2025-05-21 21:28:24,141 - INFO - my_app - Responding to: Hello...
+2025-05-21 21:28:25,482 - INFO - my_app - Finished responding to : Hello...
+2025-05-21 21:28:40,057 - INFO - my_app - Responding to: give me charts for highest albums, tracks and sales...
+2025-05-21 21:28:44,199 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'AlbumCount': 21}, {'ArtistName': 'Led Zeppelin', 'AlbumCount': 14}, 
+2025-05-21 21:28:49,670 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:28:57,268 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TrackCount': 213}, {'ArtistName': 'U2', 'TrackCount': 135}, {'Artist
+2025-05-21 21:29:01,448 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:29:08,444 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TotalSales': Decimal('1233.54')}, {'ArtistId': 150, 
+2025-05-21 21:29:15,429 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:29:23,059 - INFO - my_app - Finished responding to : give me charts for highest albums, tracks and sales...
+2025-05-21 21:31:20,899 - INFO - my_app - Responding to: Hello...
+2025-05-21 21:31:22,114 - INFO - my_app - Finished responding to : Hello...
+2025-05-21 21:31:48,831 - INFO - my_app - Responding to: Give me charts only for top albums, tracks and slaes by top 5 artists...
+2025-05-21 21:31:53,382 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistName': 'Iron Maiden', 'TotalRevenue': Decimal('138.60')}, {'ArtistName': 'U2', 'TotalRevenu
+2025-05-21 21:32:03,486 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-21 21:32:15,426 - INFO - my_app - Tool_call: execute_query, Response: [{'ArtistId': 90, 'ArtistName': 'Iron Maiden', 'TotalSales': Decimal('1233.54')}, {'ArtistId': 150, 
+2025-05-21 21:32:17,601 - INFO - my_app - Tool_call: execute_query, Response: [{'AlbumId': 127, 'Title': 'BBC Sessions [Disc 2] [Live]', 'ArtistId': 22, 'ArtistName': 'Led Zeppel
+2025-05-21 21:32:31,885 - INFO - my_app - Responding to: Hello...
+2025-05-21 21:32:33,060 - INFO - my_app - Finished responding to : Hello...
+2025-05-22 21:01:20,961 - INFO - my_app - Responding to: what data do yo =u have? ...
+2025-05-22 21:01:27,121 - INFO - my_app - Finished responding to : what data do yo =u have? ...
+2025-05-22 21:02:01,437 - INFO - my_app - Responding to: which countries has the most cotumers? ...
+2025-05-22 21:02:05,328 - INFO - my_app - Tool_call: execute_query, Response: [{'country': 'USA', 'customer_count': 36}, {'country': 'Germany', 'customer_count': 13}, {'country':
+2025-05-22 21:02:11,968 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-22 21:02:23,672 - INFO - my_app - Finished responding to : which countries has the most cotumers? ...
+2025-05-22 21:03:54,172 - INFO - my_app - Responding to: which cities has the most offices? ...
+2025-05-22 21:03:58,955 - INFO - my_app - Tool_call: execute_query, Response: [{'city': 'Paris', 'office_count': 1}, {'city': 'San Francisco', 'office_count': 1}, {'city': 'Tokyo
+2025-05-22 21:04:02,642 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-22 21:04:08,433 - INFO - my_app - Finished responding to : which cities has the most offices? ...
+2025-05-22 21:18:13,082 - INFO - my_app - Responding to: hi...
+2025-05-22 21:18:14,844 - INFO - my_app - Finished responding to : hi...
+2025-05-22 21:23:00,192 - INFO - my_app - Responding to: Hello ...
+2025-05-22 21:23:01,508 - INFO - my_app - Finished responding to : Hello ...
+2025-05-22 21:28:25,369 - INFO - my_app - Responding to: how many costumers?...
+2025-05-22 21:28:29,192 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-22 21:28:34,163 - INFO - my_app - Finished responding to : how many costumers?...
+2025-05-22 23:45:57,382 - INFO - my_app - Responding to: how many customers...
+2025-05-22 23:46:01,856 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-22 23:46:06,328 - INFO - my_app - Finished responding to : how many customers...
+2025-05-22 23:48:20,975 - INFO - my_app - Responding to: Hi...
+2025-05-22 23:48:23,133 - INFO - my_app - Finished responding to : Hi...
+2025-05-22 23:49:20,510 - INFO - my_app - Responding to: what can you do? ...
+2025-05-22 23:49:22,491 - INFO - my_app - Finished responding to : what can you do? ...
+2025-05-22 23:50:15,970 - INFO - my_app - Responding to: hi...
+2025-05-22 23:50:17,196 - INFO - my_app - Finished responding to : hi...
+2025-05-22 23:50:27,282 - INFO - my_app - Responding to: miss you...
+2025-05-22 23:50:28,734 - INFO - my_app - Finished responding to : miss you...
+2025-05-23 22:08:20,122 - INFO - my_app - Responding to: اه...
+2025-05-23 22:08:21,854 - INFO - my_app - Finished responding to : اه...
+2025-05-23 22:08:29,638 - INFO - my_app - Responding to: hi...
+2025-05-23 22:08:30,850 - INFO - my_app - Finished responding to : hi...
+2025-05-23 22:11:40,776 - ERROR - my_app - Error: 'str' object has no attribute 'get'
+2025-05-23 22:14:41,349 - INFO - my_app - Responding to: hi...
+2025-05-23 22:14:42,751 - INFO - my_app - Finished responding to : hi...
+2025-05-23 22:27:46,325 - INFO - my_app - Responding to: how are you?...
+2025-05-23 22:27:47,579 - INFO - my_app - Finished responding to : how are you?...
+2025-05-23 23:02:55,622 - INFO - my_app - Responding to: hello ...
+2025-05-23 23:02:57,093 - INFO - my_app - Finished responding to : hello ...
+2025-05-23 23:03:17,202 - INFO - my_app - Responding to: how are u? ...
+2025-05-23 23:03:18,911 - INFO - my_app - Finished responding to : how are u? ...
+2025-05-23 23:12:49,173 - INFO - my_app - Responding to: hi...
+2025-05-23 23:12:50,369 - INFO - my_app - Finished responding to : hi...
+2025-05-23 23:13:43,477 - INFO - my_app - Responding to: Can you suggest a French dish to try?...
+2025-05-23 23:13:45,011 - INFO - my_app - Finished responding to : Can you suggest a French dish to try?...
+2025-05-23 23:16:56,124 - INFO - my_app - Empty messages payload received
+2025-05-23 23:16:56,124 - ERROR - my_app - No messages found in Payload: 'messages'
+2025-05-23 23:23:03,404 - INFO - my_app - Responding to: hi...
+2025-05-23 23:23:04,706 - INFO - my_app - Finished responding to : hi...
+2025-05-23 23:26:45,483 - INFO - my_app - Responding to: get a chart for the top salles...
+2025-05-23 23:26:48,001 - INFO - my_app - Finished responding to : get a chart for the top salles...
+2025-05-23 23:27:13,661 - INFO - my_app - Responding to: get a chart for the top customers...
+2025-05-23 23:27:15,168 - INFO - my_app - Finished responding to : get a chart for the top customers...
+2025-05-23 23:27:34,034 - INFO - my_app - Responding to: last month...
+2025-05-23 23:27:39,035 - INFO - my_app - Tool_call: execute_query, Response: []
+2025-05-23 23:27:45,108 - INFO - my_app - Finished responding to : last month...
+2025-05-24 00:58:33,232 - INFO - my_app - Responding to: how many customers...
+2025-05-24 00:58:34,929 - INFO - my_app - Finished responding to : how many customers...
+2025-05-24 00:59:05,114 - INFO - my_app - Responding to: total customer in database...
+2025-05-24 00:59:08,656 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 00:59:12,755 - INFO - my_app - Finished responding to : total customer in database...
+2025-05-24 00:59:51,444 - INFO - my_app - Responding to: how many customers...
+2025-05-24 00:59:54,725 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 00:59:58,994 - INFO - my_app - Finished responding to : how many customers...
+2025-05-24 01:01:28,642 - INFO - my_app - Responding to: how many cusotmers...
+2025-05-24 01:01:32,951 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 01:01:38,089 - INFO - my_app - Finished responding to : how many cusotmers...
+2025-05-24 01:02:35,684 - INFO - my_app - Responding to: how many cusotmers...
+2025-05-24 01:02:40,000 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 01:02:43,504 - INFO - my_app - Finished responding to : how many cusotmers...
+2025-05-24 02:07:45,413 - INFO - my_app - Empty messages payload received
+2025-05-24 02:07:48,267 - ERROR - my_app - Stream error: Object of type IndexError is not JSON serializable
+2025-05-24 02:07:58,008 - INFO - my_app - Empty messages payload received
+2025-05-24 02:08:04,024 - INFO - my_app - Tool_call: execute_query, Response: [{'employeeNumber': 1370, 'firstName': 'Gerard', 'lastName': 'Hernandez', 'total_sales': Decimal('12
+2025-05-24 02:08:10,822 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 02:08:18,683 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalQuantityOrdered': D
+2025-05-24 02:08:23,819 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 02:08:30,166 - ERROR - my_app - Stream error: Object of type IndexError is not JSON serializable
+2025-05-24 02:09:56,401 - INFO - my_app - Empty messages payload received
+2025-05-24 02:10:00,900 - INFO - my_app - Tool_call: execute_query, Response: [{'productLine': 'Classic Cars', 'total_sales': Decimal('3853922.49')}, {'productLine': 'Vintage Car
+2025-05-24 02:10:05,430 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 02:10:12,760 - INFO - my_app - Tool_call: execute_query, Response: [{'country': 'USA', 'total_orders': 112}, {'country': 'France', 'total_orders': 37}, {'country': 'Sp
+2025-05-24 02:10:17,776 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 02:10:23,181 - ERROR - my_app - Stream error: Object of type IndexError is not JSON serializable
+2025-05-24 02:15:30,495 - INFO - my_app - Responding to: hi...
+2025-05-24 02:15:31,947 - INFO - my_app - Finished responding to : hi...
+2025-05-24 02:17:39,402 - INFO - my_app - Responding to: hi...
+2025-05-24 02:17:40,772 - INFO - my_app - Finished responding to : hi...
+2025-05-24 02:18:35,477 - INFO - my_app - Responding to: plot how many customers with high sale for on weak...
+2025-05-24 02:18:38,921 - INFO - my_app - Finished responding to : plot how many customers with high sale for on weak...
+2025-05-24 02:56:29,638 - INFO - my_app - Responding to: hi...
+2025-05-24 02:56:32,048 - INFO - my_app - Finished responding to : hi...
+2025-05-24 02:59:02,102 - INFO - my_app - Responding to: hi...
+2025-05-24 02:59:04,187 - INFO - my_app - Finished responding to : hi...
+2025-05-24 02:59:33,269 - INFO - my_app - Responding to: hi...
+2025-05-24 02:59:34,645 - INFO - my_app - Finished responding to : hi...
+2025-05-24 03:02:21,299 - INFO - my_app - Responding to: hi...
+2025-05-24 03:02:22,738 - INFO - my_app - Finished responding to : hi...
+2025-05-24 03:02:35,513 - INFO - my_app - Responding to: how many customers...
+2025-05-24 03:02:39,621 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 03:02:41,249 - INFO - my_app - Finished responding to : how many customers...
+2025-05-24 03:04:46,322 - INFO - my_app - Responding to: plot the customers with the highest sale...
+2025-05-24 03:04:50,496 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-24 03:04:57,015 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 03:05:02,464 - INFO - my_app - Finished responding to : plot the customers with the highest sale...
+2025-05-24 03:12:06,994 - INFO - my_app - Responding to: hi...
+2025-05-24 03:12:08,376 - INFO - my_app - Finished responding to : hi...
+2025-05-24 03:12:57,648 - INFO - my_app - Responding to: how many customers...
+2025-05-24 03:13:01,991 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 03:13:03,356 - INFO - my_app - Finished responding to : how many customers...
+2025-05-24 03:13:28,011 - INFO - my_app - Responding to: plot the customers with the highest sale...
+2025-05-24 03:13:32,781 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalPayments': Decimal('715738.
+2025-05-24 03:13:37,326 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 03:13:44,370 - INFO - my_app - Finished responding to : plot the customers with the highest sale...
+2025-05-24 12:48:21,853 - INFO - my_app - Responding to: hi...
+2025-05-24 12:48:23,315 - INFO - my_app - Finished responding to : hi...
+2025-05-24 12:48:24,604 - INFO - my_app - Responding to: hi...
+2025-05-24 12:48:25,717 - INFO - my_app - Finished responding to : hi...
+2025-05-24 12:50:09,507 - INFO - my_app - Responding to: hi...
+2025-05-24 12:50:10,894 - INFO - my_app - Finished responding to : hi...
+2025-05-24 12:50:13,041 - INFO - my_app - Responding to: hi...
+2025-05-24 12:50:14,188 - INFO - my_app - Finished responding to : hi...
+2025-05-24 13:29:48,611 - INFO - my_app - Responding to: how many customers
+...
+2025-05-24 13:29:52,901 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 13:29:56,318 - INFO - my_app - Finished responding to : how many customers
+...
+2025-05-24 13:31:46,148 - INFO - my_app - Responding to: how many customers
+...
+2025-05-24 13:31:49,842 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-24 13:31:53,555 - INFO - my_app - Finished responding to : how many customers
+...
+2025-05-24 13:35:24,197 - INFO - my_app - Responding to: hi...
+2025-05-24 13:35:25,601 - INFO - my_app - Finished responding to : hi...
+2025-05-24 14:07:40,296 - INFO - my_app - Responding to: top customers
+...
+2025-05-24 14:07:44,733 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalPayments': Decimal('715738.
+2025-05-24 14:07:49,934 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 14:07:56,341 - INFO - my_app - Finished responding to : top customers
+...
+2025-05-24 15:55:43,561 - INFO - my_app - Responding to: hi...
+2025-05-24 15:55:44,947 - INFO - my_app - Finished responding to : hi...
+2025-05-24 15:57:37,154 - INFO - my_app - Responding to: hi...
+2025-05-24 15:57:38,320 - INFO - my_app - Finished responding to : hi...
+2025-05-24 15:57:53,899 - INFO - my_app - Responding to: top customers...
+2025-05-24 15:57:58,125 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalPayments': Decimal('715738.
+2025-05-24 15:58:03,790 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-24 15:58:10,367 - INFO - my_app - Finished responding to : top customers...
+2025-05-24 15:58:50,241 - INFO - my_app - Responding to: top sale...
+2025-05-24 15:58:53,125 - INFO - my_app - Finished responding to : top sale...
+2025-05-24 16:05:39,962 - INFO - my_app - Responding to: plot the best five sales in the last month...
+2025-05-24 16:05:45,862 - INFO - my_app - Tool_call: execute_query, Response: []
+2025-05-24 16:05:51,821 - INFO - my_app - Finished responding to : plot the best five sales in the last month...
+2025-05-24 16:57:06,670 - INFO - my_app - Responding to: hi...
+2025-05-24 16:57:08,247 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:37:06,909 - INFO - my_app - Responding to: hi...
+2025-05-24 17:37:09,021 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:38:08,106 - INFO - my_app - Responding to: hi...
+2025-05-24 17:38:10,015 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:38:40,788 - INFO - my_app - Responding to: hi...
+2025-05-24 17:38:41,918 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:40:57,666 - INFO - my_app - Responding to: hi...
+2025-05-24 17:40:58,923 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:41:04,503 - INFO - my_app - Responding to: hi...
+2025-05-24 17:41:05,987 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:42:46,447 - INFO - my_app - Responding to: hi...
+2025-05-24 17:42:47,648 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:43:09,106 - INFO - my_app - Responding to: hi...
+2025-05-24 17:43:10,557 - INFO - my_app - Finished responding to : hi...
+2025-05-24 17:50:35,219 - INFO - my_app - Responding to: hi...
+2025-05-24 17:50:36,400 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:39:53,761 - INFO - my_app - Responding to: hi...
+2025-05-25 16:39:55,102 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:46:25,062 - INFO - my_app - Responding to: hi...
+2025-05-25 16:46:26,050 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:48:40,419 - INFO - my_app - Responding to: hi...
+2025-05-25 16:48:41,365 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:54:37,809 - INFO - my_app - Responding to: hi...
+2025-05-25 16:54:38,973 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:56:26,392 - INFO - my_app - Responding to: hi...
+2025-05-25 16:56:27,311 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:58:19,390 - INFO - my_app - Responding to: hi...
+2025-05-25 16:58:20,338 - INFO - my_app - Finished responding to : hi...
+2025-05-25 16:59:47,775 - INFO - my_app - Responding to: hi...
+2025-05-25 16:59:48,760 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:09:11,758 - INFO - my_app - Responding to: hi...
+2025-05-25 17:09:12,714 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:09:32,704 - INFO - my_app - Responding to: hi...
+2025-05-25 17:09:33,627 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:12:05,926 - INFO - my_app - Responding to: hi...
+2025-05-25 17:12:06,985 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:12:14,671 - INFO - my_app - Responding to: hi...
+2025-05-25 17:12:15,636 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:14:29,953 - INFO - my_app - Responding to: hi...
+2025-05-25 17:14:30,954 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:15:45,063 - INFO - my_app - Responding to: hi...
+2025-05-25 17:15:45,929 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:21:33,241 - INFO - my_app - Responding to: hi...
+2025-05-25 17:21:34,127 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:22:09,530 - INFO - my_app - Responding to: hi
+...
+2025-05-25 17:22:10,519 - INFO - my_app - Finished responding to : hi
+...
+2025-05-25 17:27:34,913 - INFO - my_app - Responding to: hi
+...
+2025-05-25 17:27:35,858 - INFO - my_app - Finished responding to : hi
+...
+2025-05-25 17:31:18,021 - INFO - my_app - Responding to: hi...
+2025-05-25 17:31:18,994 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:33:11,811 - INFO - my_app - Responding to: hi...
+2025-05-25 17:33:12,800 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:34:08,501 - INFO - my_app - Responding to: hi...
+2025-05-25 17:34:09,466 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:35:15,750 - INFO - my_app - Responding to: hi...
+2025-05-25 17:35:16,745 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:35:59,749 - INFO - my_app - Responding to: hi...
+2025-05-25 17:36:00,639 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:36:26,902 - INFO - my_app - Responding to: hi...
+2025-05-25 17:36:27,816 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:36:56,246 - INFO - my_app - Responding to: hi...
+2025-05-25 17:36:57,220 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:42:11,949 - INFO - my_app - Responding to: how are you 
+...
+2025-05-25 17:42:13,286 - INFO - my_app - Finished responding to : how are you 
+...
+2025-05-25 17:45:30,327 - INFO - my_app - Responding to: how are you 
+...
+2025-05-25 17:45:31,908 - INFO - my_app - Finished responding to : how are you 
+...
+2025-05-25 17:47:50,586 - INFO - my_app - Responding to: hi...
+2025-05-25 17:47:51,894 - INFO - my_app - Finished responding to : hi...
+2025-05-25 17:48:03,231 - INFO - my_app - Responding to: how many cusotmers...
+2025-05-25 17:48:07,915 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 122}]
+2025-05-25 17:48:13,648 - INFO - my_app - Finished responding to : how many cusotmers...
+2025-05-25 17:50:39,961 - INFO - my_app - Responding to: top sale
+...
+2025-05-25 17:50:43,322 - INFO - my_app - Finished responding to : top sale
+...
+2025-05-25 20:06:42,493 - INFO - my_app - Responding to: create a full analysis for sales and number of customers ...
+2025-05-25 20:12:12,248 - INFO - my_app - Responding to: hi...
+2025-05-25 20:12:13,227 - INFO - my_app - Finished responding to : hi...
+2025-05-25 20:12:41,863 - INFO - my_app - Responding to: create a 3 different charts for top sales, cutomers etc ...
+2025-05-25 20:12:48,059 - INFO - my_app - Tool_call: execute_query, Response: [{'productName': '1992 Ferrari 360 Spider red', 'totalSales': Decimal('276839.98')}, {'productName':
+2025-05-25 20:12:52,185 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 20:13:04,359 - INFO - my_app - Tool_call: execute_query, Response: [{'customerName': 'Euro+ Shopping Channel', 'totalPayments': Decimal('715738.98')}, {'customerName':
+2025-05-25 20:13:05,575 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 20:13:15,169 - INFO - my_app - Tool_call: execute_query, Response: [{'country': 'USA', 'customer_count': 36}, {'country': 'Germany', 'customer_count': 13}, {'country':
+2025-05-25 20:13:16,801 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-25 20:13:27,979 - INFO - my_app - Finished responding to : create a 3 different charts for top sales, cutomers etc ...
+2025-05-25 20:27:12,033 - INFO - my_app - Responding to: Hello,  Create a chart and full analysis for top customers...
+2025-05-25 20:27:15,712 - INFO - my_app - Responding to: Hello,  Create a chart and full analysis for top customers...
+2025-05-25 20:27:16,159 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'total_sales': Decimal('820689.54
+2025-05-25 20:27:19,427 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalPayments': Decimal('715738.
+2025-05-25 20:27:28,945 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 20:27:30,450 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 20:27:35,914 - INFO - my_app - Finished responding to : Hello,  Create a chart and full analysis for top customers...
+2025-05-25 20:27:36,951 - INFO - my_app - Finished responding to : Hello,  Create a chart and full analysis for top customers...
+2025-05-25 20:48:50,741 - INFO - my_app - Responding to: update the db with cutomers = 124...
+2025-05-25 20:48:54,378 - INFO - my_app - Finished responding to : update the db with cutomers = 124...
+2025-05-25 20:49:34,151 - INFO - my_app - Responding to: fill it up your way...
+2025-05-25 20:49:35,773 - INFO - my_app - Finished responding to : fill it up your way...
+2025-05-25 20:50:12,447 - INFO - my_app - Responding to: fill it the way you think is right...
+2025-05-25 20:50:13,524 - INFO - my_app - Finished responding to : fill it the way you think is right...
+2025-05-25 20:50:36,426 - INFO - my_app - Responding to: yes i confirm...
+2025-05-25 20:50:40,693 - INFO - my_app - Finished responding to : yes i confirm...
+2025-05-25 20:51:14,288 - INFO - my_app - Responding to: create a charts for the number of cutomers...
+2025-05-25 20:51:17,836 - INFO - my_app - Tool_call: execute_query, Response: [{'country': 'USA', 'customer_count': 36}, {'country': 'Germany', 'customer_count': 13}, {'country':
+2025-05-25 20:51:22,744 - INFO - my_app - Finished responding to : create a charts for the number of cutomers...
+2025-05-25 20:55:36,288 - INFO - my_app - Responding to: Hello...
+2025-05-25 20:55:37,440 - INFO - my_app - Finished responding to : Hello...
+2025-05-25 20:55:49,335 - INFO - my_app - Responding to: update the DB with cutomer number = 1111...
+2025-05-25 20:55:50,815 - INFO - my_app - Finished responding to : update the DB with cutomer number = 1111...
+2025-05-25 20:56:00,736 - INFO - my_app - Responding to: yes...
+2025-05-25 20:56:02,016 - INFO - my_app - Finished responding to : yes...
+2025-05-25 20:56:59,043 - INFO - my_app - Responding to: Create a charts for number of cumtomers and - total sales...
+2025-05-25 20:57:03,611 - INFO - my_app - Tool_call: execute_query, Response: [{'country': 'USA', 'customer_count': 36}, {'country': 'Germany', 'customer_count': 13}, {'country':
+2025-05-25 20:57:09,630 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 20:57:20,422 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-25 20:57:26,461 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 20:57:33,967 - INFO - my_app - Finished responding to : Create a charts for number of cumtomers and - total sales...
+2025-05-25 21:00:36,219 - INFO - my_app - Responding to: hi...
+2025-05-25 21:00:37,172 - INFO - my_app - Finished responding to : hi...
+2025-05-25 21:01:03,217 - INFO - my_app - Responding to: top salling...
+2025-05-25 21:01:05,704 - INFO - my_app - Finished responding to : top salling...
+2025-05-25 21:01:20,994 - INFO - my_app - Responding to: i want to update the cutomer number to 150 ...
+2025-05-25 21:01:22,640 - INFO - my_app - Finished responding to : i want to update the cutomer number to 150 ...
+2025-05-25 21:01:25,943 - INFO - my_app - Responding to: top selling products...
+2025-05-25 21:01:29,737 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalQuantityOrdered': D
+2025-05-25 21:01:35,855 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 21:01:36,208 - INFO - my_app - Responding to: what about deleting? ...
+2025-05-25 21:01:37,768 - INFO - my_app - Finished responding to : what about deleting? ...
+2025-05-25 21:01:42,958 - INFO - my_app - Finished responding to : top selling products...
+2025-05-25 21:01:57,472 - INFO - my_app - Responding to: delete the table which has the customer number ?...
+2025-05-25 21:01:58,685 - INFO - my_app - Finished responding to : delete the table which has the customer number ?...
+2025-05-25 21:02:29,380 - INFO - my_app - Responding to: what is the customer number and the total sales , with charts...
+2025-05-25 21:02:33,458 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'totalSalesAmount': Decimal('820689.54')}, {'customerNumber': 124, 'totalSa
+2025-05-25 21:02:40,102 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 21:03:01,336 - INFO - my_app - Finished responding to : what is the customer number and the total sales , with charts...
+2025-05-25 21:25:16,839 - INFO - my_app - Responding to: top product selling...
+2025-05-25 21:25:21,004 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalQuantityOrdered': D
+2025-05-25 21:25:26,997 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 21:25:32,691 - INFO - my_app - Finished responding to : top product selling...
+2025-05-25 21:30:23,202 - INFO - my_app - Responding to: Top Selling Products...
+2025-05-25 21:30:26,763 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalQuantityOrdered': D
+2025-05-25 21:30:33,345 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 21:30:39,484 - INFO - my_app - Finished responding to : Top Selling Products...
+2025-05-25 21:58:00,336 - INFO - my_app - Responding to: five highest product sales
+...
+2025-05-25 21:58:04,995 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalRevenue': Decimal('
+2025-05-25 21:58:10,702 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 21:58:15,765 - INFO - my_app - Finished responding to : five highest product sales
+...
+2025-05-25 22:01:28,551 - INFO - my_app - Responding to: highest five top sales...
+2025-05-25 22:01:32,599 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-25 22:01:36,897 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 22:01:43,306 - INFO - my_app - Finished responding to : highest five top sales...
+2025-05-25 22:03:37,617 - INFO - my_app - Responding to: plot top sales...
+2025-05-25 22:03:42,255 - INFO - my_app - Tool_call: execute_query, Response: None
+2025-05-25 22:03:46,449 - INFO - my_app - Finished responding to : plot top sales...
+2025-05-25 22:04:26,069 - INFO - my_app - Responding to: top five salling products...
+2025-05-25 22:04:29,874 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalQuantityOrdered': D
+2025-05-25 22:04:34,172 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 22:04:40,616 - INFO - my_app - Finished responding to : top five salling products...
+2025-05-25 22:44:12,983 - INFO - my_app - Responding to: five top sale...
+2025-05-25 22:44:18,189 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'total_sales_amount': Dec
+2025-05-25 22:44:21,550 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 22:44:28,230 - INFO - my_app - Finished responding to : five top sale...
+2025-05-25 22:48:20,087 - INFO - my_app - Responding to: The top 5 products by total sales...
+2025-05-25 22:48:24,618 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalSalesAmount': Decim
+2025-05-25 22:48:29,752 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 22:48:35,991 - INFO - my_app - Finished responding to : The top 5 products by total sales...
+2025-05-25 22:55:34,776 - INFO - my_app - Responding to: The top 5 products by total sales amount are...
+2025-05-25 22:55:39,659 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalSalesAmount': Decim
+2025-05-25 22:55:43,333 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 22:55:49,845 - INFO - my_app - Finished responding to : The top 5 products by total sales amount are...
+2025-05-25 23:13:57,667 - INFO - my_app - Responding to: Top 5 products by total sales amount are:...
+2025-05-25 23:14:02,277 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalSalesAmount': Decim
+2025-05-25 23:14:07,118 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 23:14:12,118 - INFO - my_app - Finished responding to : Top 5 products by total sales amount are:...
+2025-05-25 23:29:48,399 - INFO - my_app - Responding to: top five sales...
+2025-05-25 23:29:53,139 - INFO - my_app - Tool_call: execute_query, Response: [{'orderNumber': 10165, 'totalAmount': Decimal('67392.85')}, {'orderNumber': 10287, 'totalAmount': D
+2025-05-25 23:29:57,007 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 23:30:01,148 - INFO - my_app - Finished responding to : top five sales...
+2025-05-25 23:31:13,198 - INFO - my_app - Responding to: top five sale in bar...
+2025-05-25 23:31:15,282 - INFO - my_app - Finished responding to : top five sale in bar...
+2025-05-25 23:31:55,967 - INFO - my_app - Responding to: top five sales...
+2025-05-25 23:31:59,728 - INFO - my_app - Tool_call: execute_query, Response: [{'orderNumber': 10165, 'totalSalesAmount': Decimal('67392.85')}, {'orderNumber': 10287, 'totalSales
+2025-05-25 23:32:04,370 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-25 23:32:08,675 - INFO - my_app - Finished responding to : top five sales...
+2025-05-27 00:58:42,396 - INFO - my_app - Responding to: Hi...
+2025-05-27 00:58:44,027 - INFO - my_app - Finished responding to : Hi...
+2025-05-27 02:34:13,374 - INFO - my_app - Responding to: hello...
+2025-05-27 02:34:15,726 - INFO - my_app - Finished responding to : hello...
+2025-05-27 02:39:01,581 - INFO - my_app - Responding to: ...
+2025-05-27 02:39:03,903 - INFO - my_app - Finished responding to : ...
+2025-05-27 12:21:23,473 - INFO - my_app - Responding to: hi...
+2025-05-27 12:21:25,101 - INFO - my_app - Finished responding to : hi...
+2025-05-27 12:21:48,792 - INFO - my_app - Responding to: best five sales
+...
+2025-05-27 12:21:53,378 - INFO - my_app - Tool_call: execute_query, Response: [{'orderNumber': 10165, 'orderDate': datetime.date(2003, 10, 22), 'totalAmount': Decimal('67392.85')
+2025-05-27 12:22:00,047 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 12:22:04,527 - INFO - my_app - Finished responding to : best five sales
+...
+2025-05-27 12:22:36,980 - INFO - my_app - Responding to: best 2 product sales...
+2025-05-27 12:22:41,045 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'total_sales_amount': Dec
+2025-05-27 12:22:45,182 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 12:22:50,161 - INFO - my_app - Finished responding to : best 2 product sales...
+2025-05-27 12:28:25,798 - INFO - my_app - Responding to: hi...
+2025-05-27 12:28:26,962 - INFO - my_app - Finished responding to : hi...
+2025-05-27 12:34:16,747 - INFO - my_app - Responding to: hi...
+2025-05-27 12:34:18,921 - INFO - my_app - Finished responding to : hi...
+2025-05-27 12:34:38,588 - INFO - my_app - Responding to: highest 5 sales...
+2025-05-27 12:34:43,299 - INFO - my_app - Tool_call: execute_query, Response: [{'orderNumber': 10165, 'customerName': 'Dragon Souveniers, Ltd.', 'orderDate': datetime.date(2003, 
+2025-05-27 12:34:49,852 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 12:34:59,795 - INFO - my_app - Finished responding to : highest 5 sales...
+2025-05-27 12:58:44,546 - INFO - my_app - Responding to: hi...
+2025-05-27 12:58:45,986 - INFO - my_app - Finished responding to : hi...
+2025-05-27 12:59:58,138 - INFO - my_app - Responding to: hi...
+2025-05-27 12:59:59,368 - INFO - my_app - Finished responding to : hi...
+2025-05-27 13:00:41,313 - INFO - my_app - Responding to: hi...
+2025-05-27 13:00:42,501 - INFO - my_app - Finished responding to : hi...
+2025-05-27 13:01:01,271 - INFO - my_app - Responding to: d...
+2025-05-27 13:01:46,426 - INFO - my_app - Responding to: hi...
+2025-05-27 13:01:47,751 - INFO - my_app - Finished responding to : hi...
+2025-05-27 13:14:04,836 - INFO - my_app - Responding to: how are you...
+2025-05-27 13:14:06,504 - INFO - my_app - Finished responding to : how are you...
+2025-05-27 13:16:33,760 - INFO - my_app - Responding to: hi...
+2025-05-27 13:16:35,005 - INFO - my_app - Finished responding to : hi...
+2025-05-27 13:16:58,388 - INFO - my_app - Responding to: best five product sales...
+2025-05-27 13:17:02,342 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalRevenue': Decimal('
+2025-05-27 13:17:08,248 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:17:15,779 - INFO - my_app - Finished responding to : best five product sales...
+2025-05-27 13:19:44,087 - INFO - my_app - Responding to: five top sales...
+2025-05-27 13:19:48,089 - INFO - my_app - Tool_call: execute_query, Response: [{'orderNumber': 10165, 'revenue': Decimal('67392.85')}, {'orderNumber': 10287, 'revenue': Decimal('
+2025-05-27 13:19:52,136 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:19:56,388 - INFO - my_app - Finished responding to : five top sales...
+2025-05-27 13:38:15,860 - INFO - my_app - Responding to: best two sales...
+2025-05-27 13:38:21,817 - INFO - my_app - Tool_call: execute_query, Response: [{'employeeNumber': 1370, 'firstName': 'Gerard', 'lastName': 'Hernandez', 'total_sales': Decimal('12
+2025-05-27 13:38:25,215 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:38:30,240 - INFO - my_app - Finished responding to : best two sales...
+2025-05-27 13:39:50,968 - INFO - my_app - Responding to: hi...
+2025-05-27 13:39:53,046 - INFO - my_app - Finished responding to : hi...
+2025-05-27 13:40:21,394 - INFO - my_app - Responding to: highest product sales...
+2025-05-27 13:40:27,093 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'total_sales_revenue': De
+2025-05-27 13:40:30,604 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:40:36,593 - INFO - my_app - Finished responding to : highest product sales...
+2025-05-27 13:40:52,347 - INFO - my_app - Responding to: five highest product sales...
+2025-05-27 13:40:57,127 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'total_sales_revenue': De
+2025-05-27 13:41:03,941 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:41:12,667 - INFO - my_app - Finished responding to : five highest product sales...
+2025-05-27 13:42:02,896 - INFO - my_app - Responding to: highest two product sales...
+2025-05-27 13:42:10,249 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'total_revenue': Decimal(
+2025-05-27 13:42:14,536 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:42:18,789 - INFO - my_app - Finished responding to : highest two product sales...
+2025-05-27 13:42:39,328 - INFO - my_app - Responding to: lowest 10 product sales...
+2025-05-27 13:42:45,231 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S24_1937', 'productName': '1939 Chevrolet Deluxe Coupe', 'total_sales_amount': Dec
+2025-05-27 13:42:53,088 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 13:43:00,583 - INFO - my_app - Finished responding to : lowest 10 product sales...
+2025-05-27 22:28:48,210 - INFO - my_app - Responding to: top sales...
+2025-05-27 22:28:50,597 - INFO - my_app - Finished responding to : top sales...
+2025-05-27 22:29:19,123 - INFO - my_app - Responding to: by customer...
+2025-05-27 22:29:21,259 - INFO - my_app - Finished responding to : by customer...
+2025-05-27 22:29:54,341 - INFO - my_app - Responding to: top sale by customers...
+2025-05-27 22:29:58,480 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-27 22:30:04,183 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-27 22:30:09,769 - INFO - my_app - Finished responding to : top sale by customers...
+2025-05-28 18:08:54,433 - INFO - my_app - Responding to: Create a chart for top 4 sales ...
+2025-05-28 18:09:00,689 - INFO - my_app - Tool_call: execute_query, Response: [{'name': 'Euro+ Shopping Channel', 'salesAmount': Decimal('820689.54')}, {'name': 'Mini Gifts Distr
+2025-05-28 18:09:03,805 - INFO - my_app - Tool_call: execute_query, Response: [{'name': '1992 Ferrari 360 Spider red', 'salesAmount': Decimal('276839.98')}, {'name': '2001 Ferrar
+2025-05-28 18:09:06,153 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:09:06,154 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:09:14,820 - INFO - my_app - Finished responding to : Create a chart for top 4 sales ...
+2025-05-28 18:09:57,832 - INFO - my_app - Responding to: Create a chart for top 4 sales and analysis...
+2025-05-28 18:10:03,426 - INFO - my_app - Tool_call: execute_query, Response: [{'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54')}, {'customerName': 'M
+2025-05-28 18:10:05,307 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:10:10,905 - INFO - my_app - Tool_call: execute_query, Response: [{'productName': '1992 Ferrari 360 Spider red', 'totalSalesAmount': Decimal('276839.98')}, {'product
+2025-05-28 18:10:12,833 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:10:12,833 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:10:14,381 - ERROR - my_app - Calling: get_bar_chart_schema Fail
+2025-05-28 18:10:15,322 - INFO - my_app - Finished responding to : Create a chart for top 4 sales and analysis...
+2025-05-28 18:15:16,985 - INFO - my_app - Responding to: create a deep analysis with charts for customer number and top sales...
+2025-05-28 18:15:23,508 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSalesValue': Decimal('82068
+2025-05-28 18:15:26,156 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:15:26,156 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-28 18:15:29,024 - INFO - my_app - Finished responding to : create a deep analysis with charts for customer number and top sales...
+2025-05-28 18:17:21,843 - INFO - my_app - Responding to: create a deep analysis with charts for customer number and top sales....
+2025-05-28 18:17:26,155 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'total_sales': Decimal('820689.54
+2025-05-28 18:17:28,957 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:17:28,957 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-28 18:17:38,058 - INFO - my_app - Finished responding to : create a deep analysis with charts for customer number and top sales....
+2025-05-28 18:20:13,477 - INFO - my_app - Responding to: create a deep analysis with charts for customer number and top sales....
+2025-05-28 18:20:18,477 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'total_sales': Decimal('820689.54
+2025-05-28 18:20:21,101 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:20:21,101 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-28 18:20:37,987 - INFO - my_app - Finished responding to : create a deep analysis with charts for customer number and top sales....
+2025-05-28 18:21:16,862 - INFO - my_app - Responding to: create a deep analysis with charts for customer number and top sales....
+2025-05-28 18:21:22,332 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-28 18:21:25,184 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:21:25,184 - INFO - my_app - Tool_call: get_pie_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "pie" as const,
+  data: {
+    labels: ["<Category1>", "<Category2>
+2025-05-28 18:21:40,988 - INFO - my_app - Finished responding to : create a deep analysis with charts for customer number and top sales....
+2025-05-28 18:22:58,319 - INFO - my_app - Responding to: give a deep anaylis for customer sales and create a chart...
+2025-05-28 18:23:04,481 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'total_sales': Decimal('820689.54
+2025-05-28 18:23:06,657 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:23:13,818 - INFO - my_app - Finished responding to : give a deep anaylis for customer sales and create a chart...
+2025-05-28 18:31:58,383 - INFO - my_app - Responding to: hello ...
+2025-05-28 18:31:59,661 - INFO - my_app - Finished responding to : hello ...
+2025-05-28 18:32:21,548 - INFO - my_app - Responding to: give me a chart and anaylsis for top sales, customers ...
+2025-05-28 18:32:25,587 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'total_sales': Decimal('820689.54
+2025-05-28 18:32:27,869 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 18:32:33,856 - INFO - my_app - Finished responding to : give me a chart and anaylsis for top sales, customers ...
+2025-05-28 18:58:55,314 - INFO - my_app - Responding to: hi...
+2025-05-28 18:58:57,009 - INFO - my_app - Finished responding to : hi...
+2025-05-28 19:00:16,027 - INFO - my_app - Responding to: high five products sales...
+2025-05-28 19:00:21,184 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'salesRevenue': Decimal('
+2025-05-28 19:00:23,159 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-28 19:00:29,517 - INFO - my_app - Finished responding to : high five products sales...
+2025-05-28 20:48:47,795 - INFO - my_app - Responding to: hi...
+2025-05-28 20:48:49,537 - INFO - my_app - Finished responding to : hi...
+2025-05-28 20:49:09,296 - INFO - my_app - Responding to: how are u?...
+2025-05-28 20:49:11,482 - INFO - my_app - Finished responding to : how are u?...
+2025-05-28 20:49:55,829 - INFO - my_app - Responding to: hi...
+2025-05-28 20:49:57,196 - INFO - my_app - Finished responding to : hi...
+2025-05-28 20:50:24,771 - INFO - my_app - Responding to: how many customers make a high sales...
+2025-05-28 20:50:27,478 - INFO - my_app - Finished responding to : how many customers make a high sales...
+2025-05-29 00:16:47,914 - INFO - my_app - Responding to: hi...
+2025-05-29 00:16:49,730 - INFO - my_app - Finished responding to : hi...
+2025-05-29 00:17:50,248 - INFO - my_app - Responding to: best saling customers...
+2025-05-29 00:17:54,554 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-29 00:17:57,188 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-29 00:18:03,098 - INFO - my_app - Responding to: best saling customers...
+2025-05-29 00:18:07,084 - INFO - my_app - Tool_call: execute_query, Response: [{'customerNumber': 141, 'customerName': 'Euro+ Shopping Channel', 'totalSales': Decimal('820689.54'
+2025-05-29 00:18:07,096 - INFO - my_app - Finished responding to : best saling customers...
+2025-05-29 00:18:09,117 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-29 00:18:16,864 - INFO - my_app - Finished responding to : best saling customers...
+2025-05-29 00:18:45,253 - INFO - my_app - Responding to: how are you...
+2025-05-29 00:18:46,601 - INFO - my_app - Finished responding to : how are you...
+2025-05-29 00:20:29,767 - INFO - my_app - Responding to: hi...
+2025-05-29 00:20:31,005 - INFO - my_app - Finished responding to : hi...
+2025-05-29 00:21:03,348 - INFO - my_app - Responding to: hi...
+2025-05-29 00:21:04,582 - INFO - my_app - Finished responding to : hi...
+2025-05-29 00:24:42,037 - INFO - my_app - Responding to: how are you ?...
+2025-05-29 00:24:43,398 - INFO - my_app - Finished responding to : how are you ?...
+2025-05-29 00:25:49,788 - INFO - my_app - Responding to: the best five sale products...
+2025-05-29 00:25:54,212 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'totalRevenue': Decimal('
+2025-05-29 00:25:55,958 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-29 00:26:10,542 - INFO - my_app - Finished responding to : the best five sale products...
+2025-05-29 00:29:47,730 - INFO - my_app - Responding to: hi...
+2025-05-29 00:29:49,526 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:05:44,242 - INFO - my_app - Responding to: hi...
+2025-05-29 01:05:47,039 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:06:03,069 - INFO - my_app - Responding to: how are doing...
+2025-05-29 01:06:06,741 - INFO - my_app - Finished responding to : how are doing...
+2025-05-29 01:10:05,918 - INFO - my_app - Responding to: hi...
+2025-05-29 01:10:10,263 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:27:58,673 - INFO - my_app - Responding to: hi...
+2025-05-29 01:28:00,355 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:35:00,654 - INFO - my_app - Responding to: hi...
+2025-05-29 01:35:02,310 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:38:09,681 - INFO - my_app - Responding to: hi...
+2025-05-29 01:38:11,891 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:38:46,602 - INFO - my_app - Responding to: how are you...
+2025-05-29 01:38:48,115 - INFO - my_app - Finished responding to : how are you...
+2025-05-29 01:39:01,475 - INFO - my_app - Responding to: miss u...
+2025-05-29 01:39:04,789 - INFO - my_app - Finished responding to : miss u...
+2025-05-29 01:41:46,445 - INFO - my_app - Responding to: hi...
+2025-05-29 01:41:47,770 - INFO - my_app - Finished responding to : hi...
+2025-05-29 01:46:47,883 - INFO - my_app - Responding to: customers with high sales...
+2025-05-29 01:46:50,075 - INFO - my_app - Finished responding to : customers with high sales...
+2025-05-29 01:47:31,540 - INFO - my_app - Responding to: five high product sale
+...
+2025-05-29 01:47:37,224 - INFO - my_app - Tool_call: execute_query, Response: [{'productCode': 'S18_3232', 'productName': '1992 Ferrari 360 Spider red', 'total_quantity_sold': De
+2025-05-29 01:47:39,273 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-29 01:47:44,466 - INFO - my_app - Finished responding to : five high product sale
+...
+2025-05-31 19:28:42,609 - INFO - my_app - Responding to: what do you see in the db...
+2025-05-31 19:28:47,454 - INFO - my_app - Finished responding to : what do you see in the db...
+2025-05-31 22:44:40,986 - INFO - my_app - Responding to: hi...
+2025-05-31 22:44:43,188 - INFO - my_app - Finished responding to : hi...
+2025-05-31 22:45:09,772 - INFO - my_app - Responding to: high 5 product sales...
+2025-05-31 22:45:12,905 - INFO - my_app - Finished responding to : high 5 product sales...
+2025-05-31 22:46:01,608 - INFO - my_app - Responding to: top 5 products by sales...
+2025-05-31 22:46:08,089 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackId': 2832, 'ProductName': 'The Woman King', 'TotalSalesAmount': Decimal('3.98')}, {'TrackId'
+2025-05-31 22:46:11,407 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-05-31 22:46:15,933 - INFO - my_app - Finished responding to : top 5 products by sales...
+2025-06-01 01:04:27,151 - INFO - my_app - Responding to: best three product sales...
+2025-06-01 01:04:38,551 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackId': 2832, 'TrackName': 'The Woman King', 'TotalRevenue': Decimal('3.98')}, {'TrackId': 2850
+2025-06-01 01:04:42,072 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-01 01:04:47,039 - INFO - my_app - Finished responding to : best three product sales...
+2025-06-01 01:17:34,318 - INFO - my_app - Responding to: hi...
+2025-06-01 01:17:36,222 - INFO - my_app - Finished responding to : hi...
+2025-06-01 01:20:17,874 - INFO - my_app - Responding to: hi...
+2025-06-01 01:20:19,669 - INFO - my_app - Finished responding to : hi...
+2025-06-01 01:21:23,581 - INFO - my_app - Responding to: how are you ??
+...
+2025-06-01 01:21:25,517 - INFO - my_app - Finished responding to : how are you ??
+...
+2025-06-01 01:22:52,785 - INFO - my_app - Responding to: best product sales...
+2025-06-01 01:22:55,862 - INFO - my_app - Finished responding to : best product sales...
+2025-06-01 01:23:14,290 - INFO - my_app - Responding to: the best-selling music tracks...
+2025-06-01 01:23:22,395 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackId': 3214, 'TrackName': "Phyllis's Wedding", 'TotalQuantitySold': Decimal('2'), 'TotalRevenu
+2025-06-01 01:23:42,016 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-01 01:23:56,248 - INFO - my_app - Finished responding to : the best-selling music tracks...
+2025-06-01 01:27:55,330 - INFO - my_app - Responding to: hi...
+2025-06-01 01:27:56,592 - INFO - my_app - Finished responding to : hi...
+2025-06-01 02:33:57,435 - INFO - my_app - Responding to: hi...
+2025-06-01 02:33:59,403 - INFO - my_app - Finished responding to : hi...
+2025-06-01 02:37:21,263 - INFO - my_app - Responding to: the five best selleing products...
+2025-06-01 02:37:29,063 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackId': 2, 'Name': 'Balls to the Wall', 'TotalQuantity': Decimal('2')}, {'TrackId': 8, 'Name': 
+2025-06-01 02:37:31,123 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-01 02:37:37,462 - INFO - my_app - Finished responding to : the five best selleing products...
+2025-06-01 12:09:46,248 - INFO - my_app - Responding to: hi...
+2025-06-01 12:09:48,277 - INFO - my_app - Finished responding to : hi...
+2025-06-01 20:43:49,550 - INFO - my_app - Responding to: hi...
+2025-06-01 20:43:51,801 - INFO - my_app - Finished responding to : hi...
+2025-06-01 20:46:48,431 - INFO - my_app - Responding to: hi
+...
+2025-06-01 20:46:51,246 - INFO - my_app - Finished responding to : hi
+...
+2025-06-01 20:51:25,120 - INFO - my_app - Responding to: how are you...
+2025-06-01 20:51:27,131 - INFO - my_app - Finished responding to : how are you...
+2025-06-01 21:08:30,383 - INFO - my_app - Responding to: hi...
+2025-06-01 21:08:32,140 - INFO - my_app - Finished responding to : hi...
+2025-06-01 21:08:42,695 - INFO - my_app - Responding to: whats up...
+2025-06-01 21:08:45,453 - INFO - my_app - Finished responding to : whats up...
+2025-06-01 21:09:17,504 - INFO - my_app - Responding to: my name is mohamed...
+2025-06-01 21:09:19,597 - INFO - my_app - Finished responding to : my name is mohamed...
+2025-06-01 21:09:31,124 - INFO - my_app - Responding to: do you know my name...
+2025-06-01 21:09:36,188 - INFO - my_app - Finished responding to : do you know my name...
+2025-06-01 21:38:38,582 - INFO - my_app - Responding to: hi...
+2025-06-01 21:38:40,412 - INFO - my_app - Finished responding to : hi...
+2025-06-01 21:39:00,032 - INFO - my_app - Responding to: whats up...
+2025-06-01 21:39:01,770 - INFO - my_app - Finished responding to : whats up...
+2025-06-01 21:39:40,419 - INFO - my_app - Responding to: how are you doing...
+2025-06-01 21:39:42,525 - INFO - my_app - Finished responding to : how are you doing...
+2025-06-01 21:50:36,096 - INFO - my_app - Responding to: hi...
+2025-06-01 21:50:37,577 - INFO - my_app - Finished responding to : hi...
+2025-06-01 22:06:10,296 - INFO - my_app - Responding to: hi...
+2025-06-01 22:06:12,524 - INFO - my_app - Finished responding to : hi...
+2025-06-01 22:07:16,327 - INFO - my_app - Responding to: hi...
+2025-06-01 22:07:18,168 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:31:33,177 - INFO - my_app - Responding to: hi...
+2025-06-02 01:31:36,870 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:31:59,228 - INFO - my_app - Responding to: hi...
+2025-06-02 01:32:00,892 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:32:53,408 - INFO - my_app - Responding to: how are you...
+2025-06-02 01:32:55,020 - INFO - my_app - Finished responding to : how are you...
+2025-06-02 01:33:25,596 - INFO - my_app - Responding to: my name is mohamed...
+2025-06-02 01:33:28,158 - INFO - my_app - Finished responding to : my name is mohamed...
+2025-06-02 01:33:39,429 - INFO - my_app - Responding to: do you my name...
+2025-06-02 01:33:41,271 - INFO - my_app - Finished responding to : do you my name...
+2025-06-02 01:34:20,989 - INFO - my_app - Responding to: high 5 customers
+...
+2025-06-02 01:34:27,199 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'FirstName': 'Helena', 'LastName': 'Holý', 'TotalPurchase': Decimal('49.62')}, {'
+2025-06-02 01:34:29,027 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-02 01:34:35,497 - INFO - my_app - Finished responding to : high 5 customers
+...
+2025-06-02 01:34:50,862 - INFO - my_app - Responding to: what is mt name...
+2025-06-02 01:34:52,678 - INFO - my_app - Finished responding to : what is mt name...
+2025-06-02 01:40:06,824 - INFO - my_app - Responding to: do you know my name...
+2025-06-02 01:40:08,343 - INFO - my_app - Finished responding to : do you know my name...
+2025-06-02 01:40:23,924 - INFO - my_app - Responding to: best sale...
+2025-06-02 01:40:28,634 - INFO - my_app - Tool_call: execute_query, Response: [{'InvoiceId': 404, 'CustomerId': 6, 'InvoiceDate': datetime.datetime(2025, 11, 13, 0, 0), 'Total': 
+2025-06-02 01:40:33,691 - INFO - my_app - Finished responding to : best sale...
+2025-06-02 01:41:49,952 - INFO - my_app - Responding to: do you know me...
+2025-06-02 01:41:51,550 - INFO - my_app - Finished responding to : do you know me...
+2025-06-02 01:42:32,381 - INFO - my_app - Responding to: what is the best highest five sale...
+2025-06-02 01:42:37,999 - INFO - my_app - Tool_call: execute_query, Response: [{'InvoiceId': 404, 'CustomerId': 6, 'InvoiceDate': datetime.datetime(2025, 11, 13, 0, 0), 'Total': 
+2025-06-02 01:42:39,537 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-02 01:42:47,927 - INFO - my_app - Finished responding to : what is the best highest five sale...
+2025-06-02 01:43:40,432 - INFO - my_app - Responding to: hi...
+2025-06-02 01:43:42,179 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:44:12,680 - INFO - my_app - Responding to: do you my name...
+2025-06-02 01:44:15,690 - INFO - my_app - Finished responding to : do you my name...
+2025-06-02 01:44:33,407 - INFO - my_app - Responding to: hi...
+2025-06-02 01:44:35,005 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:44:54,007 - INFO - my_app - Responding to: do you know my name...
+2025-06-02 01:44:55,715 - INFO - my_app - Finished responding to : do you know my name...
+2025-06-02 01:47:13,182 - INFO - my_app - Responding to: hi...
+2025-06-02 01:47:14,924 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:47:29,796 - INFO - my_app - Responding to: do you my name...
+2025-06-02 01:47:31,877 - INFO - my_app - Finished responding to : do you my name...
+2025-06-02 01:47:46,380 - INFO - my_app - Responding to: my name is mohamed...
+2025-06-02 01:47:48,394 - INFO - my_app - Finished responding to : my name is mohamed...
+2025-06-02 01:48:33,070 - INFO - my_app - Responding to: do you my name...
+2025-06-02 01:48:34,512 - INFO - my_app - Finished responding to : do you my name...
+2025-06-02 01:49:05,928 - INFO - my_app - Responding to: hi...
+2025-06-02 01:49:07,976 - INFO - my_app - Finished responding to : hi...
+2025-06-02 01:49:24,379 - INFO - my_app - Responding to: do you know my name...
+2025-06-02 01:49:26,029 - INFO - my_app - Finished responding to : do you know my name...
+2025-06-09 17:59:06,362 - INFO - my_app - Responding to: hi...
+2025-06-09 17:59:07,702 - INFO - my_app - Finished responding to : hi...
+2025-06-09 18:00:37,198 - INFO - my_app - Responding to: the best 5 products...
+2025-06-09 18:00:39,798 - INFO - my_app - Finished responding to : the best 5 products...
+2025-06-09 18:00:59,495 - INFO - my_app - Responding to: for sales...
+2025-06-09 18:01:05,571 - INFO - my_app - Tool_call: execute_query, Response: None
+2025-06-09 18:01:09,128 - INFO - my_app - Finished responding to : for sales...
+2025-06-10 15:47:49,417 - INFO - my_app - Responding to: hi...
+2025-06-10 15:47:50,880 - INFO - my_app - Finished responding to : hi...
+2025-06-10 15:50:07,327 - INFO - my_app - Responding to: best selling album...
+2025-06-10 15:50:09,847 - INFO - my_app - Finished responding to : best selling album...
+2025-06-10 15:50:16,148 - INFO - my_app - Responding to: last year...
+2025-06-10 15:50:17,404 - INFO - my_app - Finished responding to : last year...
+2025-06-10 15:50:25,495 - INFO - my_app - Responding to: global...
+2025-06-10 15:50:37,337 - INFO - my_app - Finished responding to : global...
+2025-06-10 15:50:45,261 - INFO - my_app - Responding to: ...
+2025-06-10 15:50:47,055 - INFO - my_app - Finished responding to : ...
+2025-06-10 15:50:58,323 - INFO - my_app - Responding to: hi...
+2025-06-10 15:50:59,464 - INFO - my_app - Finished responding to : hi...
+2025-06-10 15:51:16,252 - INFO - my_app - Responding to: highest 5 customer sales...
+2025-06-10 15:51:20,959 - INFO - my_app - Tool_call: execute_query, Response: None
+2025-06-10 15:51:26,960 - INFO - my_app - Finished responding to : highest 5 customer sales...
+2025-06-10 15:52:57,984 - INFO - my_app - Responding to: ...
+2025-06-10 15:53:00,039 - INFO - my_app - Finished responding to : ...
+2025-06-10 15:53:00,044 - INFO - my_app - Responding to: ...
+2025-06-10 15:53:02,412 - INFO - my_app - Finished responding to : ...
+2025-06-10 15:53:02,416 - INFO - my_app - Responding to: ...
+2025-06-10 15:53:03,694 - INFO - my_app - Finished responding to : ...
+2025-06-10 15:53:03,700 - INFO - my_app - Responding to: ...
+2025-06-10 15:53:11,407 - INFO - my_app - Responding to: hi...
+2025-06-10 15:53:12,502 - INFO - my_app - Finished responding to : hi...
+2025-06-10 15:53:31,427 - INFO - my_app - Responding to: how many customers...
+2025-06-10 15:53:32,500 - INFO - my_app - Finished responding to : how many customers...
+2025-06-10 15:54:07,229 - INFO - my_app - Responding to: how many customers in the database...
+2025-06-10 15:54:08,608 - INFO - my_app - Finished responding to : how many customers in the database...
+2025-06-10 20:19:08,154 - INFO - my_app - Responding to: hi...
+2025-06-10 20:19:10,057 - INFO - my_app - Finished responding to : hi...
+2025-06-10 20:19:21,157 - INFO - my_app - Responding to: how many customers in the database...
+2025-06-10 20:19:24,036 - INFO - my_app - Finished responding to : how many customers in the database...
+2025-06-10 20:25:05,011 - INFO - my_app - Responding to: hi...
+2025-06-10 20:25:06,562 - INFO - my_app - Finished responding to : hi...
+2025-06-10 20:25:18,899 - INFO - my_app - Responding to: how many customers...
+2025-06-10 20:25:20,928 - INFO - my_app - Finished responding to : how many customers...
+2025-06-12 01:25:30,482 - INFO - my_app - Responding to: hi...
+2025-06-12 01:25:31,714 - INFO - my_app - Finished responding to : hi...
+2025-06-12 01:25:45,584 - INFO - my_app - Responding to: custormer with the highest sale...
+2025-06-12 01:25:49,268 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'TotalSales': Decimal('49.62')}]
+2025-06-12 01:25:56,792 - INFO - my_app - Finished responding to : custormer with the highest sale...
+2025-06-12 01:27:29,101 - INFO - my_app - Responding to: what is the highest five customer sales...
+2025-06-12 01:27:31,983 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'FirstName': 'Helena', 'LastName': 'Holý', 'TotalSales': Decimal('49.62')}, {'Cus
+2025-06-12 01:27:33,678 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-12 01:27:41,220 - INFO - my_app - Finished responding to : what is the highest five customer sales...
+2025-06-12 01:46:37,011 - INFO - my_app - Responding to: plot the highest five product sales...
+2025-06-12 01:46:41,066 - INFO - my_app - Tool_call: execute_query, Response: [{'TrackName': 'The Woman King', 'TotalSales': Decimal('3.98')}, {'TrackName': 'Walkabout', 'TotalSa
+2025-06-12 01:46:43,137 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-12 01:46:49,275 - INFO - my_app - Finished responding to : plot the highest five product sales...
+2025-06-12 02:04:59,144 - INFO - my_app - Responding to: hi...
+2025-06-12 02:05:00,347 - INFO - my_app - Finished responding to : hi...
+2025-06-12 02:05:13,876 - INFO - my_app - Responding to: the highest five product sales ...
+2025-06-12 02:05:16,751 - INFO - my_app - Tool_call: execute_query, Response: None
+2025-06-12 02:05:23,998 - INFO - my_app - Finished responding to : the highest five product sales ...
+2025-06-12 02:07:06,425 - INFO - my_app - Responding to: best product sale...
+2025-06-12 02:07:11,876 - INFO - my_app - Tool_call: execute_query, Response: None
+2025-06-12 02:07:16,595 - INFO - my_app - Finished responding to : best product sale...
+2025-06-12 02:11:35,969 - INFO - my_app - Responding to: ...
+2025-06-12 02:11:37,322 - INFO - my_app - Finished responding to : ...
+2025-06-12 02:11:37,332 - INFO - my_app - Responding to: ...
+2025-06-12 02:11:38,775 - INFO - my_app - Finished responding to : ...
+2025-06-12 02:11:38,783 - INFO - my_app - Responding to: ...
+2025-06-12 02:11:39,883 - INFO - my_app - Finished responding to : ...
+2025-06-12 02:11:39,900 - INFO - my_app - Responding to: ...
+2025-06-12 02:11:40,943 - INFO - my_app - Finished responding to : ...
+2025-06-12 02:11:54,659 - INFO - my_app - Responding to: best customer sales...
+2025-06-12 02:11:59,397 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'FirstName': 'Helena', 'LastName': 'Holý', 'TotalSales': Decimal('49.62')}]
+2025-06-12 02:12:04,583 - INFO - my_app - Finished responding to : best customer sales...
+2025-06-13 20:13:30,634 - INFO - my_app - Responding to: hi...
+2025-06-13 20:13:33,357 - INFO - my_app - Finished responding to : hi...
+2025-06-13 20:13:50,887 - INFO - my_app - Responding to: how many customers in the database...
+2025-06-13 20:13:56,453 - INFO - my_app - Tool_call: execute_query, Response: [{'total_customers': 59}]
+2025-06-13 20:14:01,400 - INFO - my_app - Finished responding to : how many customers in the database...
+2025-06-13 20:14:30,157 - INFO - my_app - Responding to: what is the highest customer sales...
+2025-06-13 20:14:33,838 - INFO - my_app - Tool_call: execute_query, Response: [{'CustomerId': 6, 'HighestTotalSale': Decimal('25.86')}, {'CustomerId': 26, 'HighestTotalSale': Dec
+2025-06-13 20:14:36,355 - INFO - my_app - Tool_call: get_bar_chart_schema, Response: ```json
+{
+  "schemas": [{
+  type: "bar" as const,
+  data: {
+    labels: ["<Month1>", "<Month2>", "<M
+2025-06-13 20:14:47,656 - INFO - my_app - Finished responding to : what is the highest customer sales...
