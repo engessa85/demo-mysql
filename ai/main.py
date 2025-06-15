@@ -4,11 +4,20 @@ from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
 from fastapi.middleware.cors import CORSMiddleware
 from src.api import router as api_router
+import asyncio
 
 
 
 app = FastAPI()
 
+
+# Optional: Sleep before doing anything else
+@app.on_event("startup")
+async def wait_for_db():
+    print("⏳ Waiting for the database to be ready...")
+    await asyncio.sleep(10)  # Waits for 10 seconds
+    print("✅ Proceeding with FastAPI startup")
+    
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],

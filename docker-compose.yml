@@ -64,8 +64,7 @@ services:
     ports:
       - "9000:9000"
     restart: always
-    depends_on:
-      - db  # Optional if unrelated
+    
 
   nginx:
     image: nginx:latest
