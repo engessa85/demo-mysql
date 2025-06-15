@@ -83,6 +83,69 @@
 #   db_data:
 
 
+# version: '3.8'
+
+# services:
+#   db:
+#     image: mysql:latest
+#     container_name: mysql-compose-container
+#     environment:
+#       MYSQL_ROOT_PASSWORD: rootpassword
+#       MYSQL_DATABASE: mydatabase
+#       MYSQL_USER: myuser
+#       MYSQL_PASSWORD: mypassword
+#     ports:
+#       - "3306:3306"
+#     volumes:
+#       - db_data:/var/lib/mysql
+#     healthcheck:
+#       test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+#       interval: 10s
+#       timeout: 5s
+#       retries: 5
+
+#   phpmyadmin:
+#     image: phpmyadmin/phpmyadmin
+#     container_name: phpmyadmin-container
+#     environment:
+#       PMA_HOST: db
+#       MYSQL_ROOT_PASSWORD: rootpassword
+#     expose:
+#       - 80
+#     depends_on:
+#       - db
+
+#   fastapi:
+#     build: ./ai
+#     container_name: fastapi-container
+#     ports:
+#       - "9000:9000"
+#     restart: always
+#     environment:
+#       DB_HOST: db
+#       DB_PORT: 3306
+#       DB_USER: myuser
+#       DB_PASSWORD: mypassword
+#       DB_NAME: mydatabase
+#       DB_TYPE: mysql
+#     depends_on:
+#       db:
+#         condition: service_healthy
+
+#   nginx:
+#     image: nginx:latest
+#     container_name: nginx-container
+#     ports:
+#       - "80:80"
+#     volumes:
+#       - ./nginx.conf:/etc/nginx/nginx.conf:ro
+#     depends_on:
+#       - phpmyadmin
+#       - fastapi
+
+# volumes:
+#   db_data:
+
 version: '3.8'
 
 services:
@@ -121,13 +184,6 @@ services:
     ports:
       - "9000:9000"
     restart: always
-    environment:
-      DB_HOST: db
-      DB_PORT: 3306
-      DB_USER: myuser
-      DB_PASSWORD: mypassword
-      DB_NAME: mydatabase
-      DB_TYPE: mysql
     depends_on:
       db:
         condition: service_healthy
@@ -145,4 +201,3 @@ services:
 
 volumes:
   db_data:
-
